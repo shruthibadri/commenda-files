@@ -1,0 +1,537 @@
+Tax Treaty
+Withholding
+Rates
+
+India > Singapore
+     Payor      Payee  Type of General             Additional Information on the Payment                          CCH Links
+                       Payment Tax
+                                  Rate
+India         SingaporeDividend 0.15                                                                        World
+                                                                                                            Treaties¶3743.01(A)Art10
+                                           • The rate is 10 per cent of the gross amount of the
+                                         dividends if the beneficial owner is a company which owns at
+                                         last 25 per cent of the shares of the company paying the
+                                         dividends.
+                                           • Non-treaty general withholding rate percentages are:
+                                         Dividends--20 (+ surcharges); Interest--20 (+ surcharges);
+                                         Royalties--10 (+ surcharges).
+India         SingaporeInterest 0.15                                                                        World
+                                                                                                            Treaties¶3743.01(A)Art11
+                                           • The rate is 10 per cent of the gross amount of the interest
+                                         if such interest is paid on a loan granted by a bank carrying on
+                                         a bona fide banking business or by a similar financial
+                                         institution (including an insurance company); 15 per cent of
+                                         the gross amount of the interest in all other cases.
+                                           • Non-treaty general withholding rate percentages are:
+                                         Dividends--20 (+ surcharges); Interest--20 (+ surcharges);
+                                         Royalties--10 (+ surcharges).
+
+India         SingaporeRoyalties 0.1                                                                        World
+                                                                                                            Treaties¶3743.01(A)Art12
+                                          • Non-treaty general withholding rate percentages are:
+                                         Dividends--20 (+ surcharges); Interest--20 (+ surcharges);
+                                         Royalties--10 (+ surcharges).
+India         SingaporeTechnical 0.1                                                                        World
+                       Services                                                                             Treaties¶3743.01(A)Art12
+
+India > United Kingdom
+     Payor       Payee Type of General             Additional Information on the Payment                          CCH Links
+                       Payment Tax
+                                  Rate
+India          United  Dividend 0.1                                                                         World
+               Kingdom                                                                                      Treaties¶3756.01(A)Art11
+                                           • The rate is 15 percent of the gross amount of the dividends
+                                         where those dividends are paid out of income (including
+                                         gains) derived directly or indirectly from immovable property
+                                         within the meaning of Article 6 by an investment vehicle which
+                                         distributes most of this income annually and whose income
+                                         from such immovable property is exempted from tax; 10
+                                         percent of the gross amount of the dividends, in all other
+                                         cases.
+                                           • Non-treaty general withholding rate percentages are:
+                                         Dividends--20 (+ surcharges); Interest--20 (+ surcharges);
+                                         Royalties--10 (+ surcharges).
+India         United  Interest 0.2                                                                          World
+              Kingdom                                                                                       Treaties¶3756.01(A)Art12
+                                          • Non-treaty general withholding rate percentages are:
+                                         Dividends--20 (+ surcharges); Interest--20 (+ surcharges);
+                                         Royalties--10 (+ surcharges).
+India         United  Royalties 0.2                                                                           World
+              Kingdom                                                                                         Treaties¶3756.01(A)Art13
+                                           • Royalties and fees for technical services may also be taxed
+                                         in the Contracting State in which they arise and according to
+                                         the law of that State; but if the beneficial owner of the
+                                         royalties or fees for technical services is a resident of the
+                                         other Contracting State, the tax so charged shall not exceed:
+                                         (a) in the case of royalties within paragraph (3)(a) of this
+                                         Article, and fees for technical services within paragraph (4)(a)
+                                         and (c) of this Article; (i) during the first five years for which
+                                         this Convention has effect; (aa) 15 per cent of the gross
+                                         amount of such royalties or fees for technical services when
+                                         the payer of the royalties or fees for technical services is the
+                                         Government of the first-mentioned Contracting State or a
+                                         political subdivision of that State, and (bb) 20 per cent of the
+                                         gross amount of such royalties or fees for technical services
+                                         in all other cases; and(ii) during subsequent years, 15 per
+                                         cent of the gross amount of such royalties or fees for
+                                         technical services;and (b) in the case of royalties within
+                                         paragraph (3)(b) of this Article and fees for technical services
+                                         defined in paragraph (4)(b) of this Article, 10 per cent of the
+                                         gross amount of such royalties and fees for technical
+                                         services.
+                                           • Non-treaty general withholding rate percentages are:
+                                         Dividends--20 (+ surcharges); Interest--20 (+ surcharges);
+                                         Royalties--10 (+ surcharges).
+India         United  Technical 0.2                                                                           World
+              Kingdom Services                                                                                Treaties¶3756.01(A)Art13
+
+India > USA
+     Payor     Payee   Type of General             Additional Information on the Payment                            CCH Links
+                       Payment Tax
+                                  Rate
+India         USA      Dividend 0.25                                                                          World
+                                                                                                              Treaties¶3758.01Art10
+                                           • The rate is 15 per cent of the gross amount of the
+                                         dividends if the beneficial owner is a company which owns at
+                                         least 10 per cent of the voting stock of the company paying
+                                         the dividends; 25 per cent of the gross amount of the
+                                         dividends in all other cases.
+                                           • Non-treaty general withholding rate percentages are:
+                                         Dividends--20 (+ surcharges); Interest--20 (+ surcharges);
+                                         Royalties--10 (+ surcharges).
+India         USA      Interest 0.15                                                                          World
+                                                                                                              Treaties¶3758.01Art11
+                                           • The rate is 10 per cent of the gross amount of the interest
+                                         if such interest is paid on a loan granted by a bank carrying on
+                                         a bona fide banking business or by a similar financial
+                                         institution (including an insurance company); and 15 per cent
+                                         of the gross amount of the interest in all other cases.
+                                         However, interest is exempt if derived and beneficially owned
+                                         by the Government, a political subdivision or local authority,
+                                         the Reserve Bank of India, or the Federal Reserve Banks of
+                                         the United States, as the case may be, and such other
+                                         institutions of either Contracting State as the competent
+                                         authorities may agree pursuant to Article 27 (Mutual
+                                         Agreement Procedure); and with respect to certain endorsed
+                                         loans or credits extended.
+                                           • Non-treaty general withholding rate percentages are:
+                                         Dividends--20 (+ surcharges); Interest--20 (+ surcharges);
+                                         Royalties--10 (+ surcharges).
+India        USA        Royalties 0.1                                                                        World
+                                                                                                             Treaties¶3758.01Art12
+                                            • The non-treaty rate for royalties and technical services is
+                                          10 percent and as it is lower than the treaty rate, it should be
+                                          used as the withholding rate.
+                                            • In the case of royalties for payments of any kind received
+                                          as a consideration for the use of, or the right to use, any
+                                          copyright of a literary, artistic, or scientific work, including
+                                          cinematograph films or work on film, tape or other means of
+                                          reproduction for use in connection with radio or television
+                                          broadcasting, any patent, trademark, design or model, plan,
+                                          secret formula or process, or for information concerning
+                                          industrial, commercial or scientific experience, including gains
+                                          derived from the alienation of any such right or property which
+                                          are contingent on the productivity, use, or disposition thereof;
+                                          and fees for included services during the first five taxable
+                                          years for which this Convention has effect, (A) 15 per cent of
+                                          the gross amount of the royalties or fees for included services
+                                          as defined in this Article, where the payer of the royalties or
+                                          fees is the Government of that Contracting State, a political
+                                          subdivision or a public sector company; and (B) 20 per cent of
+                                          the gross amount of the royalties or fees for included services
+                                          in all other cases; and (ii) during the subsequent years, 15 per
+                                          cent of the gross amount of royalties or fees for included
+                                          services. In the case of royalties for payments of any kind
+                                          received as consideration for the use of, or the right to use,
+                                          any industrial, commercial, or scientific equipment (with some
+                                          exceptions), and fees for included services that are ancillary
+                                          and subsidiary to the enjoyment of the property for which
+                                          payment is received, 10 per cent of the gross amount of the
+                                          royalties or fees for included services.
+                                            • Non-treaty general withholding rate percentages are:
+                                          Dividends--20 (+ surcharges); Interest--20 (+ surcharges);
+                                          Royalties--10 (+ surcharges).
+
+India        USA        Technical 0.1                                                                        World
+                        Services                                                                             Treaties¶3758.01Art12
+                                            • The non-treaty rate for royalties and technical services is
+                                          10 percent and as it is lower than the treaty rate, it should be
+                                          used as the withholding rate.
+                                            • In the case of royalties for payments of any kind received
+                                          as a consideration for the use of, or the right to use, any
+                                          copyright of a literary, artistic, or scientific work, including
+                                          cinematograph films or work on film, tape or other means of
+                                          reproduction for use in connection with radio or television
+                                          broadcasting, any patent, trademark, design or model, plan,
+                                          secret formula or process, or for information concerning
+                                          industrial, commercial or scientific experience, including gains
+                                          derived from the alienation of any such right or property which
+                                          are contingent on the productivity, use, or disposition thereof;
+                                          and fees for included services during the first five taxable
+                                          years for which this Convention has effect, (A) 15 per cent of
+                                          the gross amount of the royalties or fees for included services
+                                          as defined in this Article, where the payer of the royalties or
+                                          fees is the Government of that Contracting State, a political
+                                          subdivision or a public sector company; and (B) 20 per cent of
+                                          the gross amount of the royalties or fees for included services
+                                          in all other cases; and (ii) during the subsequent years, 15 per
+                                          cent of the gross amount of royalties or fees for included
+                                          services. In the case of royalties for payments of any kind
+                                          received as consideration for the use of, or the right to use,
+                                          any industrial, commercial, or scientific equipment (with some
+                                          exceptions), and fees for included services that are ancillary
+                                          and subsidiary to the enjoyment of the property for which
+                                          payment is received, 10 per cent of the gross amount of the
+                                          royalties or fees for included services.
+
+
+
+Singapore > India
+    Payor       Payee   Type of General             Additional Information on the Payment                          CCH Links
+                        Payment Tax
+                                 Rate
+Singapore    India    Dividend 0.15                                                                         World
+                                                                                                            Treaties¶3743.01(A)Art10
+                                           • The rate is 10 per cent of the gross amount of the
+                                         dividends if the beneficial owner is a company which owns at
+                                         last 25 per cent of the shares of the company paying the
+                                         dividends; 15 per cent of the gross amount of the dividends in
+                                         all other cases.
+                                           • Nontreaty general withholding rate percentages are:
+                                         Dividends--0; Interest--15; Royalties--10.
+Singapore    India    Interest 0.15                                                                         World
+                                                                                                            Treaties¶3743.01(A)Art11
+                                           • The rate is 10 per cent of the gross amount of the interest
+                                         if such interest is paid on a loan granted by a bank carrying on
+                                         a bona fide banking business or by a similar financial
+                                         institution (including an insurance company); 15 per cent of
+                                         the gross amount of the interest in all other cases.
+                                           • Nontreaty general withholding rate percentages are:
+                                         Dividends--0; Interest--15; Royalties--10.
+
+
+Singapore    India    Royalties 0.1                                                                         World
+                                                                                                            Treaties¶3743.01(A)Art12
+                                          • Nontreaty general withholding rate percentages are:
+                                         Dividends--0; Interest--15; Royalties--10.
+
+Singapore    India    Technical 0.1                                                                         World
+                      Services                                                                              Treaties¶3743.01(A)Art12
+
+Singapore > United Kingdom
+    Payor       Payee Type of General              Additional Information on the Payment                          CCH Links
+                       Payment Tax
+                                  Rate
+Singapore     United   Dividend 0                                                                           World
+              Kingdom                                                                                       Treaties¶4264.01(A)Art10
+                                          • The rate is 15 percent for real estate investment trust
+                                         distributions.
+                                          • Nontreaty general withholding rate percentages are:
+                                         Dividends--0; Interest--15; Royalties--10.
+Singapore    United  Interest 0.05                                                                          World
+             Kingdom                                                                                        Treaties¶4264.01(A)Art11
+                                          • Nontreaty general withholding rate percentages are:
+                                         Dividends--0; Interest--15; Royalties--10.
+
+Singapore    United  Royalties 0.08                                                                         World
+             Kingdom                                                                                        Treaties¶4264.01(A)Art12
+                                          • Nontreaty general withholding rate percentages are:
+                                         Dividends--0; Interest--15; Royalties--10.
+
+Singapore    United  Technical 0.17                                                                         World
+             Kingdom Services                                                                               Treaties¶4264.01(A)
+                                           • The treaty does not explicitly reference a withholding rate
+                                         for technical services. Therefore, unless another treaty
+                                         provision applies (e.g., royalties, independent personal
+                                         services, business profits, etc.), domestic law controls. The
+                                         withholding tax rate in Singapore for other items with non-
+                                         treaty countries is generally 15%. For technical and other
+                                         service fees paid to a non-resident company, the withholding
+                                         tax rate is 17%. Technical service fees paid to non-resident
+                                         individuals are subject to withholding tax at 20%. Therefore,
+                                         the general domestic law withholding rate for Singapore-
+                                         sourced fees paid to non-residents for technical services is
+                                         17% (or 20% if paid to individuals).
+
+
+United Kingdom > India
+    Payor      Payee Type of General               Additional Information on the Payment                          CCH Links
+                       Payment Tax
+                               Rate
+United KingdomIndia   Dividend 0                                                                              World
+                                                                                                              Treaties¶3756.01(A)Art11
+                                           • The UK generally does not have a withholding tax on
+                                         dividends paid to a UK resident or non-resident company
+                                         unless the dividends are paid by a real estate investment
+                                         trust.
+                                           • The treaty provides that the rate is 15 percent of the gross
+                                         amount of the dividends where those dividends are paid out
+                                         of income (including gains) derived directly or indirectly from
+                                         immovable property within the meaning of Article 6 by an
+                                         investment vehicle which distributes most of this income
+                                         annually and whose income from such immovable property is
+                                         exempted from tax; 10 percent of the gross amount of the
+                                         dividends, in all other cases.
+                                           • Non-treaty general withholding rate percentages are:
+                                         Dividends--0; Interest--20; Royalties--20.
+
+United KingdomIndia   Interest 0.15                                                                           World
+                                                                                                              Treaties¶3756.01(A)Art12
+                                          • Non-treaty general withholding rate percentages are:
+                                         Dividends--0; Interest--20; Royalties--20.
+
+United KingdomIndia   Royalties 0.2                                                                           World
+                                                                                                              Treaties¶3756.01(A)Art13
+                                           • Royalties and fees for technical services may also be taxed
+                                         in the Contracting State in which they arise and according to
+                                         the law of that State; but if the beneficial owner of the
+                                         royalties or fees for technical services is a resident of the
+                                         other Contracting State, the tax so charged shall not exceed:
+                                         (a) in the case of royalties within paragraph (3)(a) of this
+                                         Article, and fees for technical services within paragraph (4)(a)
+                                         and (c) of this Article; (i) during the first five years for which
+                                         this Convention has effect; (aa) 15 per cent of the gross
+                                         amount of such royalties or fees for technical services when
+                                         the payer of the royalties or fees for technical services is the
+                                         Government of the first-mentioned Contracting State or a
+                                         political subdivision of that State, and (bb) 20 per cent of the
+                                         gross amount of such royalties or fees for technical services
+                                         in all other cases; and(ii) during subsequent years, 15 per
+                                         cent of the gross amount of such royalties or fees for
+                                         technical services;and (b) in the case of royalties within
+                                         paragraph (3)(b) of this Article and fees for technical services
+                                         defined in paragraph (4)(b) of this Article, 10 per cent of the
+                                         gross amount of such royalties and fees for technical
+                                         services.
+                                           • In general, unless a reduced treaty rate applies, under
+                                         domestic law UK source patent, copyright, design, model,
+                                         plan, secret formula, trademark, brand names and know-how
+                                         royalty payments are subject to a 20 percent withholding tax.
+                                         Film related royalty payments are generally exempt from
+                                         withholding tax.
+                                           • Non-treaty general withholding rate percentages are:
+                                         Dividends--0; Interest--20; Royalties--20.
+United KingdomIndia   Technical 0.2                                                                           World
+                      Services                                                                                Treaties¶3756.01(A)Art13
+
+United Kingdom > Singapore
+     Payor      Payee Type of General              Additional Information on the Payment                            CCH Links
+                       Payment Tax
+                                  Rate
+United KingdomSingaporeDividend 0                                                                             World
+                                                                                                              Treaties¶4264.01(A)Art10
+                                           • The UK generally does not have a withholding tax on
+                                         dividends paid to a UK resident or non-resident company
+                                         unless the dividends are paid by a real estate investment
+                                         trust.
+                                           • Real estate investment trust distributions are subject to a
+                                         15 per cent rate.
+                                           • Non-treaty general withholding rate percentages are:
+                                         Dividends--0; Interest--20; Royalties--20.
+United KingdomSingaporeInterest 0.05                                                                         World
+                                                                                                             Treaties¶4264.01(A)Art11
+                                           • Non-treaty general withholding rate percentages are:
+                                          Dividends--0; Interest--20; Royalties--20.
+
+United KingdomSingaporeRoyalties 0.08                                                                        World
+                                                                                                             Treaties¶4264.01(A)Art12
+                                           • In general, unless a reduced treaty rate applies, under
+                                          domestic law UK source patent, copyright, design, model,
+                                          plan, secret formula, trademark, brand names and know-how
+                                          royalty payments are subject to a 20 percent withholding tax.
+                                          Film related royalty payments are generally exempt from
+                                          withholding tax.
+                                           • Non-treaty general withholding rate percentages are:
+                                          Dividends--0; Interest--20; Royalties--20.
+
+United KingdomSingaporeTechnical 0                                                                           World
+                       Services                                                                              Treaties¶4264.01(A)
+                                           • The treaty does not explicitly reference a withholding rate
+                                          for technical services. Therefore, unless another treaty
+                                          provision applies (e.g., royalties, independent personal
+                                          services, business profits, etc.), domestic law controls. The
+                                          general domestic default withholding rate for UK-sourced
+                                          payments to nonresidents is 0%.
+
+
+United Kingdom > USA
+    Payor      Payee    Type of General             Additional Information on the Payment                          CCH Links
+                        Payment Tax
+                                   Rate
+United KingdomUSA       Dividend 0                                                                           World
+                                                                                                             Treaties¶4332.01(A)Art10
+                                            • The UK generally does not have a withholding tax on
+                                          dividends paid to a UK resident or non-resident company
+                                          unless the dividends are paid by a real estate investment
+                                          trust.
+                                            • The treaty provides for a rate of 5 per cent of the gross
+                                          amount of the dividends if the beneficial owner is a company
+                                          that owns shares representing directly or indirectly at least 10
+                                          per cent of the voting power of the company paying the
+                                          dividends; 15 per cent of the gross amount of the dividends in
+                                          all other cases.
+                                            • Non-treaty general withholding rate percentages are:
+                                          Dividends--0; Interest--20; Royalties--20.
+
+United KingdomUSA       Interest 0                                                                           World
+                                                                                                             Treaties¶4332.01(A)Art11
+                                           • Non-treaty general withholding rate percentages are:
+                                          Dividends--0; Interest--20; Royalties--20.
+
+United KingdomUSA       Royalties 0                                                                          World
+                                                                                                             Treaties¶4332.01(A)Art12
+                                           • In general, unless a reduced treaty rate applies, under
+                                          domestic law UK source patent, copyright, design, model,
+                                          plan, secret formula, trademark, brand names and know-how
+                                          royalty payments are subject to a 20 percent withholding tax.
+                                          Film related royalty payments are generally exempt from
+                                          withholding tax.
+                                           • Non-treaty general withholding rate percentages are:
+                                          Dividends--0; Interest--20; Royalties--20.
+
+United KingdomUSA       Technical 0                                                                          World
+                        Services                                                                             Treaties¶4332.01(A)
+                                           • The treaty does not explicitly reference a withholding rate
+                                          for technical services. Therefore, unless another treaty
+                                          provision applies (e.g., royalties, independent personal
+                                          services, business profits, etc.), domestic law controls. The
+                                          general domestic default withholding rate for UK-sourced
+                                          payments to nonresidents is 0%.
+
+
+USA > India
+      Payor    Payee   Type of General             Additional Information on the Payment                          CCH Links
+                       Payment Tax
+                                  Rate
+USA           India    Dividend 0.25                                                                        World
+                                                                                                            Treaties¶3758.01Art10
+                                           • A rate of 15 percent of the gross amount of the dividends
+                                         applies if the beneficial owner is a company which owns at
+                                         least 10 per cent of the voting stock of the company paying
+                                         the dividends; 25 percent of the gross amount of the
+                                         dividends in all other cases.
+                                           • Non-treaty general withholding rate percentages are:
+                                         Dividends--30; Interest--30; Royalties--30.
+USA           India    Interest 0.15                                                                        World
+                                                                                                            Treaties¶3758.01Art11
+                                           • A rate of 10 percent of the gross amount of the interest
+                                         applies if such interest is paid on a loan granted by a bank
+                                         carrying on a bona fide banking business or by a similar
+                                         financial institution (including an insurance company); and 15
+                                         percent of the gross amount of the interest in all other cases.
+                                           • Non-treaty general withholding rate percentages are:
+                                         Dividends--30; Interest--30; Royalties--30.
+
+
+USA           India    Royalties 0.15                                                                       World
+                                                                                                            Treaties¶3758.01Art12
+                                           • In the case of royalties for payments of any kind received
+                                         as a consideration for the use of, or the right to use, any
+                                         copyright of a literary, artistic, or scientific work, including
+                                         cinematograph films or work on film, tape or other means of
+                                         reproduction for use in connection with radio or television
+                                         broadcasting, any patent, trademark, design or model, plan,
+                                         secret formula or process, or for information concerning
+                                         industrial, commercial or scientific experience, including gains
+                                         derived from the alienation of any such right or property which
+                                         are contingent on the productivity, use, or disposition thereof;
+                                         and fees for included services during the first five taxable
+                                         years for which this Convention has effect, (A) 15 per cent of
+                                         the gross amount of the royalties or fees for included services
+                                         as defined in this Article, where the payer of the royalties or
+                                         fees is the Government of that Contracting State, a political
+                                         subdivision or a public sector company; and (B) 20 per cent of
+                                         the gross amount of the royalties or fees for included services
+                                         in all other cases; and (ii) during the subsequent years, 15 per
+                                         cent of the gross amount of royalties or fees for included
+                                         services. In the case of royalties for payments of any kind
+                                         received as consideration for the use of, or the right to use,
+                                         any industrial, commercial, or scientific equipment (with some
+                                         exceptions), and fees for included services that are ancillary
+                                         and subsidiary to the enjoyment of the property for which
+                                         payment is received, 10 per cent of the gross amount of the
+                                         royalties or fees for included services.
+                                           • Non-treaty general withholding rate percentages are:
+                                         Dividends--30; Interest--30; Royalties--30.
+USA          India      Technical 0.15                                                                       World
+                        Services                                                                             Treaties¶3758.01Art12
+                                            • In the case of royalties for payments of any kind received
+                                          as a consideration for the use of, or the right to use, any
+                                          copyright of a literary, artistic, or scientific work, including
+                                          cinematograph films or work on film, tape or other means of
+                                          reproduction for use in connection with radio or television
+                                          broadcasting, any patent, trademark, design or model, plan,
+                                          secret formula or process, or for information concerning
+                                          industrial, commercial or scientific experience, including gains
+                                          derived from the alienation of any such right or property which
+                                          are contingent on the productivity, use, or disposition thereof;
+                                          and fees for included services during the first five taxable
+                                          years for which this Convention has effect, (A) 15 per cent of
+                                          the gross amount of the royalties or fees for included services
+                                          as defined in this Article, where the payer of the royalties or
+                                          fees is the Government of that Contracting State, a political
+                                          subdivision or a public sector company; and (B) 20 per cent of
+                                          the gross amount of the royalties or fees for included services
+                                          in all other cases; and (ii) during the subsequent years, 15 per
+                                          cent of the gross amount of royalties or fees for included
+                                          services. In the case of royalties for payments of any kind
+                                          received as consideration for the use of, or the right to use,
+                                          any industrial, commercial, or scientific equipment (with some
+                                          exceptions), and fees for included services that are ancillary
+                                          and subsidiary to the enjoyment of the property for which
+                                          payment is received, 10 per cent of the gross amount of the
+                                          royalties or fees for included services.
+
+
+USA > United Kingdom
+   Payor        Payee   Type of General             Additional Information on the Payment                          CCH Links
+                        Payment Tax
+                                   Rate
+USA          United     Dividend 0.15                                                                        World
+             Kingdom                                                                                         Treaties¶4332.01(A)Art10
+                                            • The rate is 5 per cent. of the gross amount of the dividends
+                                          if the beneficial owner is a company that owns shares
+                                          representing directly or indirectly at least 10 per cent. of the
+                                          voting power of the company paying the dividends;15 per
+                                          cent. of the gross amount of the dividends in all other cases.
+                                          However, dividends shall not be taxed in the Contracting
+                                          State of which the company paying the dividends is a resident
+                                          if the beneficial owner of the dividends is a resident of the
+                                          other Contracting State and either: (a) a company that has
+                                          owned shares representing 80 per cent or more of the voting
+                                          power of the company paying the dividends for a 12-month
+                                          period ending on the date the dividend is declared, and that:
+                                          (i) owned shares representing, directly or indirectly, at least
+                                          80 per cent. of the voting power of the company paying the
+                                          dividends prior to October 1st, 1998; or (ii) is a qualified
+                                          person by reason of certain limitations on benefits provisions;
+                                          or (b) a pension scheme, provided that such dividends are not
+                                          derived from the carrying on of a business, directly or
+                                          indirectly, by such pension scheme.
+                                            • Nontreaty general withholding rate percentages are:
+                                          Dividends—30; Interest—30; Royalties—30.
+
+USA          United  Interest 0                                                                              World
+             Kingdom                                                                                         Treaties¶4332.01(A)Art11
+                                           • Nontreaty general withholding rate percentages are:
+                                          Dividends--30; Interest--30; Royalties--30.
+
+USA          United  Royalties 0                                                                             World
+             Kingdom                                                                                         Treaties¶4332.01(A)Art12
+                                           • Nontreaty general withholding rate percentages are:
+                                          Dividends--30; Interest--30; Royalties--30.
+USA                   United  Technical 0.3                                                                                    World
+                      Kingdom Services                                                                                         Treaties¶4332.01(A)
+                                                               • The treaty does not explicitly reference a withholding rate
+                                                             for technical services. Therefore, unless another treaty
+                                                             provision applies (e.g., royalties, independent personal
+                                                             services, business profits, etc.), domestic law controls. The
+                                                             withholding tax rate on payments made to foreign companies
+                                                             is generally 30% unless a reduced treaty rate applies or the
+                                                             income is classified as effectively connected income where it
+                                                             would be taxed at a rate of 21% (for corporations).
+
+Date Prepared: 5/27/2024 3:49:14 PM (UTC+5:30)
+© 2024 CCH Incorporated and its affiliates and licensors. All rights reserved.
+CCH Customer Service (800) 835-5224
+

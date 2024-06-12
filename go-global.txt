@@ -1,0 +1,2018 @@
+AGREEMENT FOR PROVISION OF SOFTWARE DEVELOPMENT AND SUPPORT SERVICES
+
+  This SOFTWARE DEVELOPMENT AGREEMENT (hereinafter the "Agreement") is
+  made on this --2--1 day of -September 2021 (“Effective Date”)
+
+  BETWEEN:
+
+  GOGLOBAL RESEARCH PTE. LTD, a company incorporated under the laws of
+  Singapore with its principal office in Singapore, represented herein
+  by hereinafter referred to as "GoGlobal SG" or “Company”, which
+  expression shall unless excluded by or repugnant to the context or
+  meaning thereof be deemed to mean and include the successors,
+  executors, administrators, representatives and permitted assigns) of
+  the Company.
+
+  AND
+
+  GOGLOBAL INFORMATION SECURITY PRIVATE LIMITED, a company incorporated
+  under the Companies Act, 2013 and having its registered office in
+  Bengaluru represented herein by (hereinafter referred to as "GoGlobal
+  India" or “Service Provider”, which expression shall unless excluded
+  by or repugnant to the context or meaning thereof be deemed to mean
+  and include the successors, executors, administrators, representatives
+  and permitted assigns) of Service Provider.
+
+  The Company and Service Provider are individually referred to as a
+  "Party" and collectively as the "Parties".
+
+  WHEREAS:
+
+A.  The Company is engaged in the business of providing artificial
+    intelligence-based risk management services.
+
+B.  Service Provider is incorporated with the objective of, inter alia,
+    providing contract technology and technical support and related
+    business support and market support services.
+
+C.  Service Provider has represented that it has necessary
+    infrastructure and technological capability and adequate
+    professionals to perform services envisaged herein on a timely basis
+    and in a professional manner.
+
+D.  The Company is desirous of procuring the services of the Service
+    Provider on the terms and conditions as set forth in this Agreement.
+
+E.  The Parties hereby enter into this Agreement to record the terms and
+    conditions of the resale arrangement.
+
+  NOW THEREFORE, IN CONSIDERATION OF THE MUTUAL COVENANTS HEREIN
+  CONTAINED, THE PARTIES HERETO AGREE AS FOLLOWS:
+
+1.  Definitions
+
+    1.  "Affiliates" shall mean any corporation, partnership, joint
+        venture or other business entity that directly or indirectly,
+        controls, is controlled by, or is under common control of the
+        Company or the Service Provider. For purposes of the foregoing
+        definition, "control" (including "control by" and "under common
+        control with") shall mean ownership of or the right to
+        acquire: (a) not less than twenty percent (20%) of the voting
+        stock of a corporation,(b) the right to vote not less than
+        twenty percent (20%) of the voting stock of a corporation (or,
+        in the case of a non-corporate entity, equivalent rights),
+        or (c) not less than twenty percent (20%) ownership interest in
+        a partnership or other business entity.
+
+    2.  "Confidential Information" includes but is not limited to
+        information which is or fairly be considered to be of a
+        confidential nature, disclosed to or obtained by Service
+        Provider, whether (without limitation) in graphic, written,
+        electronic or machine readable form on floppy diskettes or
+        orally; and whether or not the information is expressly stated
+        to be confidential or marked as such, in writing, and also
+        includes all Intellectual Property, but is not limited to -
+
+        a.  Information of value or significance to Company or its
+              competitors (present or potential) such as:
+
+            -   Customer data, in particular, names, addresses, sales
+                  figures and sales conditions of Company and its
+                  present or prospective clients.
+
+            -   Distribution data, in particular, names, addresses,
+                  sales figures and sales conditions of present or
+                  prospective distributors, agents and licensees of
+                  Company.
+
+            -   Manufacturing data, in particular, procurement and
+                  manufacturing procedures, the fees, discounts,
+                  commissions and other credits relating to the
+                  software.
+
+            -   Supplier’s data, in particular, names, addresses, sales
+                  figures, and sales condition of present or prospective
+                  suppliers of software and hardware to Company, whether
+                  in India or abroad.
+
+            -   Business data, particularly data relating to new
+                  products, promotion campaigns, distribution
+                  strategies, license agreements and joint ventures in
+                  which Company is involved.
+
+            -   Software data, particularly information relating to the
+                  software and the modules thereof as well as any
+                  devices designed by Company to prevent unauthorized
+                  copying.
+
+            -   Research and development data, particularly information
+                  relating to the software and hardware developments of
+                  Company.
+
+            -   Financial data, in particular, concerning budgets, the
+                  fees and revenue calculations, sales figures,
+                  financial statements, profit expectations and
+                  inventories of Company.
+
+        b.  Original information supplied by Company;
+
+        c.  Information not known to competitors of Company nor intended
+              by Company for general dissemination, including but not
+              limited to, policies, strategies, the identity of various
+              product-suppliers or service-providers, billing schedules,
+              needs of its clients, information as to the profitability
+              of specific accounts, and information about Company itself
+              and its executives, officers, directors and Service
+              Provider;
+
+        d.  Any business or technical information relating to Company,
+              including but not limited to financial information,
+              equipment, documentation, strategies, marketing plans,
+              prospective leads or target accounts, pricing information,
+              information relating to existing, previous and potential
+              customers and contracts disclosed by Company to the
+              Service Provider;
+
+        e.  Any copies of the above-mentioned information; but does not
+              include:
+
+            -   that which is in the public domain other than by the
+                  Service Provider’s breach,
+
+  of this Agreement, or of any other confidentiality agreement;
+
+-   that which was previously known, as established by written records
+      of the Service Provider, prior to receipt from Company;
+
+-   that which was lawfully obtained by the Service Provider from a
+      Third Party; and
+
+-   that which was developed independently by the Service Provider
+      without access to the Confidential Information provided by
+      Company.
+
+3.  “Designated Projects” means the projects identified and communicated
+    by the Company to the Service Provider for performance by the
+    Service Provider from time to time within the scope of the
+    description of Services provided in Section 2 of this Agreement.
+
+4.  “Intellectual Property Rights” means all and any registered and
+    unregistered rights granted, applied for or otherwise now or
+    hereafter in existence under or related to any patent, copyright,
+    trademark, trade secret, database protection or other intellectual
+    property rights laws, and all similar or equivalent rights or forms
+    of protection, in any part of the world.
+
+5.  “Services” means the services provided under this Agreement,
+    including but not limited to, interpreting software requirements,
+    writing software codes, performing unit level testing, checking in/
+    out software modules, using internal tools for compiling; supporting
+    customer feature enhancements, product defects and software
+    maintenance, managing cloud servers, databases, writing and
+    maintaining software/product documentation
+
+6.  “Third Party” means any person who is not a party to this Agreement
+    and includes the customers and prospective customers’ of the
+    Company.
+
+7.  “Work Product” means any product that is created or developed by the
+    Service Provider in course of providing Services to Company.
+
+2.  Provision of Services
+
+    1.  Subject to the provisions of this Section 2 and other terms and
+        conditions of this Agreement, the Company hereby appoints the
+        Service Provider for provision of the Services in accordance
+        with the instructions received from the Company from time to
+        time.
+
+3.  Invoicing
+
+    1.  In relation to the software development service, the Company
+        would remunerate the service provider on a cost-plus mark-up of
+        17%. Cost incurred for the purpose of this section means Service
+        Provider’s total operating costs which are required in order to
+        provide the Services, stated in accordance with corporate and
+        tax laws of India and Singapore. Operating costs shall include
+        all direct costs, plus reasonably allocated indirect costs,
+        including depreciation or amortisation costs for capital
+        expenses related
+
+  to the Services, losses on account of foreign exchange fluctuations.
+  Gains (if any) by the Service Provider on foreign exchange
+  fluctuations would be reduced in computing the operating costs.
+  Service Provider shall use Company’s standard internal accounting
+  standards (if permissible) or standards as close as permissible under
+  the corporate and tax laws of India and Singapore, as the case may be.
+
+2.  Service Provider shall raise an invoice on a monthly basis for the
+    Services rendered during each month at the rate specified in 3.1
+    above. Each invoice shall contain such details as the Company may
+    reasonably request.
+
+3.  At the end of each year, on due completion of audit of accounts of
+    the Service Provider as per applicable laws, Service Provider shall
+    raise an additional invoice for unbilled revenue.
+
+4.  All invoices shall be raised in US Dollars unless otherwise agreed.
+
+5.  For all or any cost incurred by the Service Provider in Indian
+    Rupees, the amount shall be converted into US Dollars, by applying
+    the applicable Rupee-Dollar exchange rate as on the last day of the
+    month for which the invoices are raised.
+
+6.  All invoices must be e-mailed or faxed immediately and subsequently
+    mailed to the Company.
+
+4.  Payments
+
+    1.  The Parties agree that the undisputed invoices shall be payable
+        within sixty (60) days of receipt of Service Provider’s invoice.
+        However, the Parties also agree that the outstanding invoices
+        would be paid to the Service Provider within the time limit
+        prescribed under Indian exchange control regulations.
+
+    2.  The Company shall make the payment or have such payments made
+        through banking channels directly to the bank account of Service
+        Provider.
+
+    3.  Service Provider to obliged to settle any advances received from
+        the Company against future invoices to be raised by the Service
+        Provider.
+
+    4.  Any clarifications on the invoices shall be discussed and
+        settled, however ensuring that payment is not delayed beyond the
+        time as per 4.1 above.
+
+    5.  Any adjustments arrived at after discussion as provided under
+        4.4 above, shall be made in the subsequent invoice.
+
+5.  Rights and obligations of the Parties
+
+    1.  Service Provider shall employ only qualified personnel to
+          perform the Services.
+
+    2.  Service Provider shall render the Services in a professional
+        manner based on internationally accepted standards.
+
+    3.  Service Provider shall give the Designated Projects of the
+        Company high priority and treat the Company as the Service
+        Provider’s most preferred customer.
+
+    4.  If the Service Provider is of the view that it shall be unable
+        to provide the Services as set out in the Statement of Work for
+        any reason, it shall provide a written request to Company,
+        specifying the reasons for such request and an alternate course
+        of action, within reasonable time. The Company shall then decide
+        on the further course of action, in consultation with Service
+        Provider.
+
+    5.  In the event that Company determines that the Services provided
+        are not in accordance with this Agreement, the Service Provider
+        shall make all necessary changes to ensure that the Services
+        meet the requisite criteria at no extra cost to the Company.
+
+    6.  In the event that the Service Provider does not deliver the
+        Services as per the specified time schedule due to default on
+        its part, the Company shall be entitled to procure the Services
+        required under the Agreement from a Third Party and recover the
+        cost and expenses of the same from Service Provider.
+
+    7.  In the event that the Service Provider has knowledge or
+        reasonable belief that anything prevents or is likely to prevent
+        or threatens to prevent the timely performance of the Services
+        or other obligations of Service Provider under the Agreement, it
+        shall promptly notify Company of such an event or probable
+        event. The Company shall in its sole discretion grant Service
+        Provider a reasonable extension of time if so requested by the
+
+  Service Provider to complete additional or changed work in the event
+  that the
+
+  Company’s requirements materially change.
+
+8.  The Service Provider shall provide support services in the nature of
+    de-bugging, bridging gaps and rectifying errors or runtime defects
+    that the products may develop.
+
+9.  The Service Provider shall at all times maintain accurate billing
+    records and invoices of the expenses incurred under the Agreement
+    which shall be audited annually by the chartered accountants of the
+    Service Provider.
+
+6.  Representations, Warranties and Covenants of the Parties
+
+    1.  Service Provider hereby represents, warrants and covenants that
+        it has the requisite facilities and resources to discharge and
+        shall discharge the Services in a timely and efficient manner,
+        and, it has the administrative, business and technical expertise
+        required to perform and shall perform such Services in a
+        competent and professional manner.
+
+    2.  Either party has and shall have the authority and is lawfully
+        entitled to enter into Agreement and that it is not under any
+        disability, restriction or prohibition which shall prevent it
+        from performing o adhering to any of it obligations under this
+        Agreement.
+
+7.  Relationship between Parties
+
+    1.  The relationship between the Company and Service Provider,
+        established by this Agreement shall be in the nature of a
+        provider and recipient of services who are acting independently
+        on a principal-to-principal basis.
+
+    2.  Nothing in this Agreement shall be construed to constitute the
+        relationship of a principal and agent, employer and employee,
+        partners, joint venture, co-owners or otherwise as participants
+        in a joint undertaking;
+
+8.  Compliance with Laws
+
+    1.  Each Party hereby agrees that its business shall be conducted in
+        accordance with the applicable laws in the respective countries
+        and shall strictly comply with all applicable
+
+  laws, rules, regulations and Government orders, now or hereafter in
+  effect, relating to the performance of this Agreement.
+
+9.  Confidentiality
+
+    1.  Service Provider agrees that it shall at all times maintain and
+        keep secret and privileged the Confidential Information and
+        shall not disclose or divulge the same or any part thereof to
+        any Third Party without the prior written consent of Company in
+        that behalf.
+
+    2.  Service Provider agrees to use the Confidential Information only
+        for the purposes of this Agreement or otherwise as expressly
+        permitted by the Agreement.
+
+    3.  Service Provider agrees not to make copies of any such
+        Confidential Information or any part thereof except for the
+        purpose of the Agreement.
+
+    4.  Service Provider shall disclose the Confidential Information to
+        only such other parties, to whom such disclosure is necessary
+        for the performance of the obligations contained herein on a
+        “need to know basis”. Service Provider shall ensure that such
+        other parties shall undertake similar confidentiality
+        obligations, prior to accessing the Confidential Information.
+
+    5.  In the event that any Confidential Information is required to be
+        disclosed under law, the Service Provider undertakes to make
+        only such disclosures as are required to be made under law to
+        the concerned authorities. The Service Provider shall intimate
+        Company in writing of such mandatory disclosure norms as and
+        when they may become applicable.
+
+    6.  The Service Provider shall enter into a Confidentiality
+        Agreement with any Third Party to whom it discloses or needs to
+        disclose any Confidential Information.
+
+    7.  The Service Provider shall make Company a third-party
+        beneficiary in any confidentiality agreement that it may enter
+        into with a Third Party.
+
+10. Term of Agreement
+
+    1.  This Agreement shall be effective between the Parties for an
+        initial term of one year from the Effective Date or such other
+        date as may be mutually agreed to between the Parties.
+
+  The Agreement shall be automatically treated as renewed for another
+  period of one year, unless otherwise terminated before the expiry of
+  the term under the provisions of Section 11.
+
+11. Termination
+
+    1.  In the event of any material breach of, or material default
+        under, this Agreement by either Party, the non-defaulting Party
+        shall give the other Party written notice of such breach or
+        default. The other Party shall have a period of fifteen (15)
+        days from the date of receipt of such written notice within
+        which the breach or default may be rectified to the satisfaction
+        of the other party failing which, this Agreement may be
+        terminated by written notice by the non-breaching or
+        non-defaulting Party to the other Party. The termination shall
+        be effective on receipt of such a notice by the other party.
+
+    2.  Either Party may terminate this Agreement upon thirty (30) days’
+        notice in writing to the other Party, without assigning any
+        reason for such termination.
+
+    3.  Service Provider shall submit to the Company, within sixty (60)
+        days of such termination, a written report of all payments owed
+        for Services performed prior to the termination date. The
+        Company, shall pay the dues to Service Provider within
+        thirty (30) days thereof.
+
+    4.  The Agreement shall automatically terminate, without any notice
+        or other action whatsoever, if either party (i) becomes the
+        subject of any voluntary petition in bankruptcy or other
+        voluntary proceeding relating to insolvency, receivership,
+        liquidation or composition for the benefit of creditors, if such
+        petition is not dismissed within thirty (30) days of filing or
+        initiation thereof; (ii) is in default under any agreement or
+        indenture governing indebtedness of such party.
+
+    5.  The Parties shall have no claim whatsoever in respect of the
+        assets of the other party merely because of termination of the
+        Agreement under this Section;
+
+12. Arbitration
+
+    1.  The Parties to the Agreement hereby agree that they intend to
+        discharge their obligations in utmost good faith. The Parties
+        therefore agree that they will, at all times,
+
+  act in good faith, and make all attempts to resolve all differences
+  howsoever arising out of or in connection with this Agreement by
+  discussion failing which, by arbitration.
+
+2.  The Parties agree that the discussions shall be held in the spirit
+    of resolution of the issues that have arisen between them with the
+    intention of resolving the issues amicably at the earliest. If the
+    applicant is not satisfied with the outcome of the discussions,
+    within fifteen (15) days from the receipt of the response, it shall
+    resort to arbitration.
+
+3.  The Parties shall be bound to submit all disputes and differences
+    howsoever arising of, or in connection with this Agreement, to
+    arbitration. The Parties agree that any and all controversies,
+    claims or disputes with anyone arising out of, relating to or
+    resulting from performance of the Services under this Agreement or
+    the termination of this Agreement, including any breach of this
+    Agreement, shall be subject to binding arbitration under the
+    provisions of the Singapore International Arbitration Act as
+    amended. Such arbitration shall he conducted in English and the
+    venue of arbitration shall be Singapore.
+
+13. Indemnification
+
+    1.  Service Provider shall, at its own cost and expense, indemnify,
+        defend or settle, and hold Company free and harmless from and
+        against any and all losses, liabilities, claims, actions, costs
+        and expenses, including reasonable attorneys' fees and court
+        costs, relating to, resulting from or in any way arising out of:
+
+i.  In the event of breach of any of its obligations, representations or
+    warranties contained herein, including loss or damage arising out of
+    or in connection to (a) misconduct or negligence of the
+    professionals assigned to the Designated Projects; or (b) any claim
+    of infringement of any Third Party’s Intellectual Property;
+
+ii. Any claim, suit or proceeding finally adjudicated against Company
+      brought by any Third Party for any harm, loss or injury suffered
+      by any Third Party arising from and out of the performance or
+      non-performance of the Services provided by Service Provider
+      pursuant to the Agreement;
+
+iii. Any action of Service Provider not authorized or permitted under
+     the Agreement.
+
+     1.  The Company shall, at its own cost and expense, indemnify,
+         defend or, and hold Service Provider free and harmless from and
+         against any and all losses, liabilities, claims, actions, costs
+         and expenses, including reasonable attorneys' fees and court
+         costs, relating to, resulting from or in any way arising out of
+         breach of any of its obligations, representations or warranties
+         contained herein including loss or damage arising out of
+         misconduct or negligence.
+
+     1.  Limitation of liability
+
+         1.  To the extent permitted by applicable law, neither party
+             shall be liable to other party or its employees or any
+             other person acting on their behalf, for any special,
+             incidental, indirect or consequential damages, whether in
+             contract, tort (including negligence) or otherwise for any
+             loss of profits, loss of business, loss of contracts, or
+             revenue, loss of operation time, increased costs, wasted
+             expenditure, loss of goodwill and/ or reputation, for any
+             inaccuracy or corruption of data, howsoever arising out of
+             this agreement, even if a party receives notice in advance
+             that these kinds of damages might arise. Further the
+             liability to indemnify of the Service Provider shall be
+             limited to the amount of fees actually received by the
+             Service Provider under this Agreement.
+
+         2.  For the avoidance of any doubt, nothing in this Agreement
+             shall exclude or limit either party’s liability to the
+             other party for (i) fraud; (ii) death or personal injury
+             caused by its gross negligence or wilful misconduct
+             and (iii) any liability which cannot be excluded or limited
+             as a matter of law.
+
+     2.  Intellectual Property
+
+         1.  Service Provider acknowledges and agrees that any and all
+             Services and Work Product shall be considered
+             “work-made-for-hire” within the meaning of Section 17 of
+             the Indian Copyright Act, 1957 or other applicable law, and
+             ownership of the entire right, title and interest in the
+             Services and Work Product shall reside in the Company. The
+             Service Provider further acknowledges and agrees that any
+             and all Services and Work Product shall be simultaneously
+             be considered work made in the employment of the Company
+             under a contract of service in Section 30(6) of the
+             Singapore Copyright Act (Cap. 63), Singapore; and the
+             common law of Singapore. If Service Provider or any of its
+             employees, consultants or agents should otherwise retain or
+             be deemed to retain any rights to any of the Services or
+             any Work Products, then Service Provider shall assign
+
+  and transfer and does hereby expressly and irrevocably assign and
+  transfer all rights, title, and interest, worldwide, in and to all the
+  Services and Work Products, including without limitation, all
+  intellectual property rights embodied in or relating to the Services
+  and the Work Products. Service Provider shall ensure that Service
+  Provider’s employees, agents and subcontractors appropriately waive
+  any and all claims to the Services and Work Products and irrevocably
+  assign and transfer to the Company any and all rights, title, and
+  interests, worldwide, in and to the Services and Work Products,
+  including without limitation, intellectual property and other
+  proprietary rights embodied in or relating to the Services and Work
+  Products. The Services and Work Products shall, at all times, between
+  the parties, be and remain the sole and exclusive property of the
+  Company and may not be used by Service Provider for any purpose other
+  than the benefit of the Company.
+
+2.  Service Provider shall promptly disclose and deliver to the Company
+    the Services and Work Products. During the term of this Agreement,
+    and at any time thereafter, Service Provider shall assist the
+    Company, upon request from the Company (and, if requested after
+    termination of this Agreement, at the Company’s expense), but
+    without further compensation to Service Provider, in taking any
+    action that may be reasonably necessary to secure, perfect,
+    register, maintain and defend the Company’s right, title and
+    interest in the Services and Work Products, including without
+    limitation the Company’s Intellectual Property rights.
+
+3.  Any assignment of copyright under this Clause 15 and Clause 16
+    includes moral rights and to the extent moral rights cannot be
+    assigned under applicable law, the Service Provider hereby waives
+    such moral rights whether owned jointly or singly prior to or during
+    the term of the Agreement and for one year thereafter in favor of
+    the Company and consents to any action of the Company that would
+    violate such moral rights in the absence of such consent. Service
+    Provider will confirm any such waivers and consents from time to
+    time as and when requested by the Company.
+
+4.  Service Provider shall perform, during and after the term of this
+    Agreement, all acts deemed necessary or desirable by the Company to
+    permit and assist it, at the Company’s expense, in evidencing,
+    perfecting, obtaining, maintaining, defending and enforcing its
+    rights in the Intellectual Property and/or assignment by the Service
+    Provider with respect to the Intellectual Property in any and all
+    countries. Such acts may include, but are not limited to, execution
+    of documents and assistance or cooperation in legal proceedings.
+
+5.  Service Provider agrees to abide by the sole discretionary decision
+    of the Company regarding the obtaining, gaining recognition of or
+    enforcing rights in such Intellectual Property (whether as patent,
+    copyright, trade secret, trademark or otherwise).
+
+6.  Service Provider agrees that all inventions made or conceived by
+    Service Provider, its employees, subcontractors or agents, during
+    the term of this Agreement, and arising from the services to be
+    performed pursuant to this Agreement have been and shall continue to
+    be assigned to the Company as its sole exclusive property. Service
+    Provider agrees to assist the Company to obtain patents for such
+    inventions, including the disclosure of all pertinent information
+    and data with respect thereto, the execution of all applications,
+    instruments or papers which the Company shall deem necessary or
+    desirable in connection therewith, and to assign or convey to the
+    Company, its successors, assigns or nominees, the sole and exclusive
+    right, title and interest in any such inventions, applications or
+    patents. If the Company does not desire to patent any of said
+    inventions but desires to keep them a secret, Service Provider
+    agrees to assist the Company and will not disclose any information
+    in regard thereto except with the prior written consent of the
+    Company. Service Provider agrees that all notes, records and
+    drawings made or kept by Service Provider or its employees in
+    connection with Service Provider’s services herein or in connection
+    with any inventions made or conceived by Service Provider under this
+    Agreement, shall be and are the sole and exclusive property of the
+    Company and that the Company has the sole right to obtain copyrights
+    upon any such writings. Service Provider agrees to make available
+    all such notes, records and drawings and copies thereof to the
+    Company immediately upon written request by the Company. Service
+    Provider agrees that its obligations under this Clause 15 shall
+    survive the termination of this Agreement.
+
+7.  Service Provider irrevocably appoints the Company to be its
+    attorney, and on its behalf to sign, execute or make any such
+    instrument, and generally to use its name for the purpose of giving
+    to the Company (or its nominee) the full benefit of the provisions
+    of this clause.
+
+8.  The Company may disclose to Service Provider such information in
+    connection with its inventions, confidential know-how, trade
+    secrets, cost information, or other proprietary information which
+    the Company in its sole judgement determines will assist Service
+    Provider in performing its obligations hereunder. The Company may
+    provide Service Provider with models, products or similar items with
+    which Service Provider may have
+
+  made, conceived or developed inventions, confidential know-how, trade
+  secrets or other proprietary information in its performance of this
+  Agreement. Said inventions, confidential know-how, trade secrets
+  and/or other proprietary information which is disclosed or which is
+  developed by Service Provider in the scope of this Agreement shall
+  remain the sole property of the Company and Service Provider shall
+  have no interest in or rights with respect thereto. Service Provider
+  agrees to maintain such information in confidence, to take all
+  reasonable precautions to prevent any unauthorised disclosure of any
+  such information, and to not use such information except within the
+  scope of this Agreement. The obligations of this Section shall survive
+  termination of this Agreement until such time as the information
+  becomes a matter of public knowledge, regardless of the reasons for
+  termination of this Agreement.
+
+3.  Transfer or Assignment
+
+    1.  Service Provider shall not assign all or any part of the rights
+        or benefits under this Agreement to any third party without the
+        prior consent of the Company. This Agreement shall bind, benefit
+        and be enforceable by and against both parties and their
+        respective successors and permissible assigns. Any purported
+        assignment in violation of this Section shall be void.
+
+4.  General Provisions
+
+    1.  Force Majeure
+
+  Any delay in or failure of performance by either Party shall not
+  constitute default hereunder if and to the extent caused by Force
+  Majeure, which is defined to be occurrences beyond the reasonable
+  control of the party effected, including but not limited to, and
+  whether or not of the same class or kind as, any law, decree,
+  regulation, order or acts of the government authorities, public
+  disturbance, act of the public enemy, nationwide, state wide or city
+  wide strike, lock-out or other labour disputes not being the result of
+  any acts of Service Provider, acts of God, fire, flood, earthquake,
+  explosion, riots, war, rebellion, insurrection, and sabotage.
+
+2.  Severability
+
+  In the event of any provision(s) contained in this Agreement shall be
+  found invalid, illegal or unenforceable under any applicable law, the
+  validity, legality and enforceability of the
+
+  remaining provisions contained herein shall not in any way be effected
+  or impaired. Notwithstanding, the Parties shall in good faith
+  negotiate and agree upon alternative language to replace the offending
+  provisions with a legally valid provision such that the intention of
+  the Parties in entering into this Agreement is retained.
+
+3.  Entire Agreement
+
+  This Agreement constitutes the entire agreement between the Parties in
+  relation to its subject matter hereunder, and shall supersede any and
+  all agreements, representations, warranties, understanding, whether
+  written or oral, with respect to such subject matter and no variation
+  of this Agreement shall be effective unless reduced into writing and
+  signed by or on behalf of each Party.
+
+4.  Notice
+
+  All notices, reports, approvals, consents and other communications to
+  either Party shall be made in writing and shall be deemed to be duly
+  served if delivered by courier, hand delivery, facsimile, or
+  electronic mail to the address set forth at the beginning of this
+  Agreement or to such other addresses as the Parties may designate by
+  written notice from time to time.
+
+5.  Amendments
+
+  No addition to or modification of this Agreement shall be binding upon
+  the Parties unless made by a written instrument signed by a duly
+  authorized representative of each of the Parties.
+
+6.  Waiver
+
+  It is expressly understood that, if either Party on any occasion,
+  fails to perform any term of this Agreement and the other Party does
+  not enforce that term, the failure to enforce on that occasion shall
+  not prevent enforcement on any other occasion.
+
+7.  Governing Law
+
+  This Agreement and these conditions shall be governed by and construed
+  in accordance with the laws in Singapore.
+
+8.  Counterpart
+
+  This Agreement may be executed in two (2) counterparts, each of which
+  shall be deemed original.
+
+  IN WITNESS WHEREOF the Parties have hereto set their hands the day and
+  year above written.
+
+  GoGlobal Research PTE LTD (As Appointer)
+
+  AND
+
+  GoGlobal Information Security Private Limited (As Reseller)
+
+  RESELLER AGREEMENT
+
+  TABLE OF CONTENTS
+
+1.  Definitions and interpretation 2
+
+2.  Novation of Agreement and Appointment of Reseller 5
+
+3.  Access to Products 6
+
+4.  Changes to products 7
+
+5.  Price 7
+
+6.  Payment of list prices 8
+
+7.  Taxes 9
+
+8.  Term 9
+
+9.  Representations and non-operating obligations 9
+
+10. Product warranties 11
+
+11. Intellectual property 12
+
+12. Reseller responsibilities 15
+
+13. License grants 16
+
+14. Confidentiality 17
+
+15. Termination 20
+
+16. Effect of termination 21
+
+17. Assignment 21
+
+18. General conditions 21
+
+19. Force majeure 23
+
+20. Legal relationship 23
+
+21. Costs 23
+
+22. Set-off 23
+
+23. Further assurances 24
+
+24. Notices 24
+
+25. Whole agreement 25
+
+26. Waivers 26
+
+27. Counterparts 26
+
+28. Variations 26
+
+29. Invalid terms 27
+
+30. No third-party enforcement 28
+
+31. Cumulative remedies 28
+
+32. Governing law and dispute resolution 28
+
+Schedule A 30
+
+  THIS RESELLER AGREEMENT (“Agreement”) is executed on
+
+  21 Sept
+
+2021
+
+  PARTIES
+
+(1) GOGLOBAL RESEARCH PTE. LTD., a company incorporated under the laws
+    of Singapore with its principal office in Singapore 169876,
+    represented herein by Jackson Russell (hereinafter referred to as
+    "GoGlobal SG" or “Appointor”, which expression shall unless excluded
+    by or repugnant to the context or meaning thereof be deemed to mean
+    and include the successors, executors, administrators,
+    representatives and permitted assigns) of the FIRST PART
+
+and
+
+(2) GOGLOBAL INFORMATION SECURITY PRIVATE LIMITED, a company
+    incorporated under the laws of India in Bengaluru, represented
+    herein by Mark Musk (hereinafter referred to as the “Reseller”,
+    which expression shall unless excluded by or repugnant to the
+    context or meaning thereof be deemed to mean and include its
+    successors, executors, administrators, representatives and permitted
+    assigns) of the SECOND PART,
+
+  (each a Party and together, the Parties).
+
+  Words and expressions used in this Agreement shall be interpreted in
+  accordance with Clause 1 (Definitions and Interpretation) of this
+  Agreement.
+
+  WHEREAS
+
+(A) The Appointor is in the business of providing artificial
+    intelligence-based risk management services (the Business). The
+    Appointor has developed and desires to advertise, promote, market
+    and distribute its services and products.
+
+(B) The Appointer has acquired all of the Intellectual Property rights
+    in the Products; and now wishes to appoint the Reseller as the
+    Appointor's non-exclusive reseller to advertise, promote and resell
+    the Products solely to third party End Users within the Territory
+    and the Reseller accepts such appointment in accordance with the
+    terms of this Agreement.
+
+  IT IS AGREED:
+
+Definitions and interpretation
+
+In this Agreement, unless the context otherwise requires:
+
+Definitions
+
+  -----------------------------------------------------------------------
+  Business              has the meaning ascribed thereto in Recital (A);
+  --------------------- -------------------------------------------------
+  Confidential          means any information supplied by either Party,
+  Information           or any of their respective Connected Persons to
+                        the other Party and any of its Connected Persons,
+                        whenever and in whatever form, in connection with
+                        this Agreement, including any information: (a)
+                        relating to either Party or any of its respective
+                        Connected Persons; (b) contained or reflected in
+                        any report analysis, compilation, study or other
+                        material prepared by or for either Party or any
+                        of their respective Connected Persons; (c)
+                        relating to the existence and provisions of, or
+                        the negotiations leading to, this Agreement and
+                        any other documents pursuant thereto; and/or (d)
+                        that would be regarded as confidential by a
+                        reasonable business person, and includes written
+                        information and information transferred or
+                        obtained orally, visually, electronically or by
+                        any other means;
+
+  Connected Persons     means, in relation to a Party, any affiliate of
+                        that Party and any officer, employee, agent,
+                        adviser or representative of that Party or any of
+                        its affiliates, in each case, from time to time;
+
+  Disputes              means disputes, controversies or differences;
+
+  Effective Date        means 29 October, 2021
+  -----------------------------------------------------------------------
+
+  -----------------------------------------------------------------------
+  Encumbrance           means any mortgage, assignment of receivables,
+                        debenture, lien, charge, pledge, title retention,
+                        right to acquire, security interest, options,
+                        rights of first refusal and any other encumbrance
+                        or condition whatsoever;
+  --------------------- -------------------------------------------------
+  End User              means a person or entity that desires to use or
+                        acquire the Products for its own use, rather than
+                        for resale or distribution.
+
+  Governmental          means any administrative, executive, judicial,
+  Authority             legislative, regulatory, licensing, competition
+                        or other governmental authority (including any
+                        Tax Authority) having applicable jurisdiction;
+
+  Initial Term          has the meaning set out in Clause 9.1 (Term);
+
+  Intellectual Property means any trademark, pending trademark
+                        application, patent, pending patent application,
+                        know-how, registered and unregistered design,
+                        rights in unregistered design copyright, trade
+                        secrets, database rights, trade secrets, licences
+                        relating to any of the above or other similar
+                        industrial or commercial right subsisting or
+                        attached to the Products, in whatever form and on
+                        whatever media, (ii) licences relating to any of
+                        the above and (iii) other industrial or
+                        commercial rights of the same or similar effect
+                        or nature;
+
+  Law                   means any statute, law, rule, regulation,
+                        guideline, ordinance, code or rule of law issued,
+                        administered or enforced by any Governmental
+                        Authority, and any judicial or administrative
+                        interpretation of any of these;
+
+  List Price            the prices as set out in Part B of Schedule A
+                        (Product & List Price);
+
+  Products              means the goods and/or services as set out in
+                        Part A of Schedule A, or the derivatives thereto
+
+  Renewal Term          has the meaning set out in Clause 9.2 (Term);
+
+  Tax                   means (a) taxes on income, profits and gains, and
+                        (b) all other taxes, levies, duties, imposts,
+                        charges and withholdings in the nature of
+                        taxation, together with all penalties, charges,
+                        fees and interest relating to any of these or to
+                        any late or incorrect return in respect of any of
+                        them;
+  -----------------------------------------------------------------------
+
+  -----------------------------------------------------------------------
+  Tax Authority         means any taxing or other authority competent to
+                        impose any Tax liability, or assess or collect
+                        any Tax; and
+  --------------------- -------------------------------------------------
+  Term                  Means the Initial Term including any Renewal Term
+
+  Territory             means the entire territory of the Republic of
+                        India
+
+  Value Added Cost      Value Added Cost shall include all operating
+                        expenses including but not limited to normal
+                        recurring costs such as office rent,
+                        communication charges, salaries, employee
+                        benefits, depreciation on assets used,
+                        amortization, and common expenses reasonably
+                        incurred by the Reseller in selling the Products
+                        defined under this Agreement, in a financial
+                        period based on financial statements prepared in
+                        accordance with the Generally Accepted Accounting
+                        Principles and Practices in India and audited
+                        under the requirements of Indian corporate law.
+                        Costs shall specifically exclude the purchase
+                        price of the Products, interest paid, loss on
+                        sale of fixed assets and any prior period or
+                        extraordinary expenses. Cost shall also be
+                        adjusted for foreign exchange losses incurred by
+                        the Reseller wherein the same would be added to
+                        the cost. However, no adjustments would be made
+                        to the Value Added Cost on account of foreign
+                        exchange gains derived by the Reseller.
+  -----------------------------------------------------------------------
+
+2.  Interpretation:
+
+    a.  references to a person include any individual, firm, body
+        corporate (wherever incorporated), government, state or agency
+        of a state or any joint venture, association, partnership, works
+        council or employee representative body (in any case, whether or
+        not it has separate legal personality);
+
+    b.  references to a paragraph, Clause or Schedule are to those of
+        this Agreement;
+
+    c.  the headings are for convenience only and shall not affect the
+        interpretation hereof;
+
+    d.  the singular shall include the plural and vice versa, and
+        references to one gender include all genders;
+
+    e.  references to any Singapore law legal term or concept shall, in
+        respect of any jurisdiction other than Singapore, be construed
+        as references to the term or concept that most nearly
+        corresponds to it in that jurisdiction;
+
+    f.  any phrase introduced by the terms including, include, in
+        particular or any similar expression shall be construed as
+        merely illustrative and shall not limit the sense of the words
+        preceding those terms;
+
+    g.  any reference to an enactment (which includes any legislation in
+        any jurisdiction) includes references to: (i) that enactment as
+        amended, consolidated or re-enacted by or under any other
+        enactment whenever made;
+
+  (ii) any enactment that that enactment re-enacts (with or without
+  modification); and (iii) any subordinate legislation (including
+  regulations) whenever made under that enactment, as amended,
+  consolidated or re- enacted as described at (i) or (ii), except to the
+  extent that any of the matters referred to in (i) to (iii) occurs on
+  or after the date of this Agreement and increases or alters the
+  liability of a Party under this Agreement; and
+
+h.  the Schedules comprise Schedules to this Agreement and form part of
+    this Agreement.
+
+2.  Termination of First Reseller Agreement and Appointment of Reseller
+    under this Agreement
+
+    1.  The Parties have previously entered into an undated Reseller
+        Agreement between the Parties, annexed hereto at Appendix 1 (the
+        “First Reseller Agreement”).
+
+    2.  As of the Effective Date, the Parties agree that the First
+        Reseller Agreement stands terminated and that the Parties are to
+        be released from the terms and conditions of the First Reseller
+        Agreement in every way, including any and all past, present and
+        future obligations of the Parties under the Agreements and
+        neither Party shall make any claims or demands in respect of the
+        same. The Parties hereby agree and
+
+acknowledge that the accounts under the First Reseller Agreement have
+been settled and there are no amounts outstanding as on the Effective
+Date.
+
+3.  The Appointor hereby authorises and appoints the Reseller with
+    effect from the Effective Date, and the Reseller hereby accepts the
+    authorisation and appointment, as the Appointor's non-exclusive
+    reseller, to market, sell, or incorporate for resale the Products
+    within the Territory during the Term.
+
+4.  The Reseller may not authorize or appoint any dealers,
+    sub-resellers, agents, representatives, subcontractors, or other
+    third parties to advertise, promote, resell, or distribute the
+    Products in the Territory during the Term without the written
+    consent of the Appointer and such consent shall not be unreasonably
+    withheld.
+
+5.  The Reseller reserves the right to advertise, promote, market and
+    distribute the Products, and to appoint third parties to advertise,
+    promote, market and distribute the Products, worldwide, including in
+    the Territory. Further, the Reseller reserves the right, in its sole
+    discretion, at any time and from time to time, to modify any or all
+    of the Products it offers, or to discontinue the service, support of
+    publication, distribution, sale or licensing of any or all of the
+    Products without liability of any kind subject to prior written
+    notification to the Appointer.
+
+6.  The Appointor may revise the list of Products by:
+
+    a.  giving the Reseller written notice; and
+
+    b.  co-operating with the Reseller to draft, execute, and attach to
+        this Agreement an amended list of Products reflecting the
+        revisions.
+
+Access to Products
+
+The Reseller’s access to and use of the Products for resale is provided
+through the appropriate service channel as may be mutually agreed
+between the Parties from time to time (“Service Channel”).
+
+Changes to Products
+
+The Appointor may discontinue or modify the Products, modify the Product
+specifications, or replace the Products with similar or third-party
+products, subject to prior written notification to the Appointer.
+However, the Appointor shall not discontinue, modify, or replace
+Products that are subject to an accepted and outstanding purchase order
+or unless required by Law.
+
+5.  Purchase Price
+
+    1.  The price for the Products sold to Reseller would be determined
+        by reducing from the List Price, a compensation to the Reseller
+        for the Value Added Costs (‘VAC’) together with an arm’s length
+        margin on such VAC. It is agreed by the parties that such margin
+        not be less than 17% on the VAC.
+
+    2.  The Parties further agree that the Reseller would be assured of
+        the agreed margin on the VAC. In this regard, the Parties agree
+        to establish a price checking mechanism whereby, the net
+        operating margin of the Reseller will be budgeted (on a
+        corridor) per January 1 and will be monitored on a quarterly
+        basis during the relevant financial year for compliance with the
+        agreed margin. Where at the end of the quarter, such net
+        operating margin of the Reseller is determined as having been
+        less than the arm’s length margin (termed as the ‘lower
+        variance’), the Reseller would be remunerated by way of a
+        compensation for the lower variance.
+
+    3.  The Reseller may determine its own retail prices but shall take
+        into account suggested retail prices provided by the Appointor.
+
+    4.  Changes to Prices
+
+        a.  If the Appointor changes its List Price, the Appointor shall
+            give the Reseller one months' notice before implementing
+            those changes.
+
+        b.  Any changes to the Reseller’s margin is subject to the
+            approval of both the Appointer and the Reseller.
+
+        c.  Changes to the Appointor's List Price and/or the Reseller’s
+            Discount will not affect any purchase orders already
+            submitted before the date of the change.
+
+6.  Payment of List Prices
+
+    1.  The Appointor shall invoice the Reseller for each delivery of
+        Products within 14 days after the Reseller accepts the delivery.
+
+    2.  The Appointor shall:
+
+        a.  make each invoice to the Reseller in writing, including:
+
+            i.  an invoice date and number;
+
+            ii. the total amount due; and
+
+            iii. the calculation of the total amount, and
+
+        b.  send each invoice to the recipient the Reseller specifies
+              directly below:
+
+    3.  The Reseller shall pay each invoice:
+
+        a.  within 60 days after receiving each invoice;
+
+        b.  in immediately available funds; and
+
+        c.  to the account the Appointor specifies directly below:
+
+7.  Taxes
+
+Payment amounts under this Agreement do not include Taxes, and the
+Appointer shall pay all Taxes applicable to payments between the Parties
+under this Agreement.
+
+8.  Term
+
+    1.  The initial term of this Agreement will begin on the Effective
+        Date and continue for 36 months, unless terminated earlier (the
+        Initial Term).
+
+    2.  Subject to Clause 8.3, at the end of each Term this Agreement
+        will automatically renew for a renewal term of 12 months, unless
+        terminated earlier (the Renewal Term).
+
+    3.  Either Party may elect not to renew this Agreement, by providing
+        notice to the other Party at least 30 days before the end of the
+        Term.
+
+9.  Representations and non-operating obligations
+
+    1.  The Reseller represents and warrants to the Appointor, with the
+        intention that the Appointor will rely thereon in entering into
+        this Agreement, that:
+
+        a.  the Reseller is a corporation duly organised, validly
+            existing, of good standing under the laws of the
+            jurisdiction where it was incorporated and qualified to do
+            business under the laws of the Territory;
+
+        b.  the execution, delivery and performance of this Agreement
+            does not conflict with, or constitute a breach of any
+            contract, agreement, mortgage, bylaw provision, lease or
+            restriction of any nature to which the Reseller is a party.
+            So long as this Agreement is in effect, the Reseller will
+            not undertake any obligations the performance of which would
+            constitute a breach hereunder or would affect the Reseller's
+            performance hereunder;
+
+        c.  the Reseller has all necessary corporate power and authority
+            to execute, deliver and perform this Agreement, and this
+            Agreement shall be valid, binding and enforceable in
+            accordance with the terms hereunder upon the Reseller and
+            its successors and assigns when executed;
+
+        d.  no steps have been taken for the dissolution of the Reseller
+            nor have any legal proceedings been commenced or threatened
+            for the dissolution of the Reseller or for the appointment
+            of a receiver, trustee, judicial manager or similar officer
+            of the Reseller or any of its assets;
+
+    2.  All representations and warranties of the Reseller contained in
+        this Agreement shall be complete, correct and accurate on the
+        Effective Date, shall remain in effect thereafter so long as
+        this Agreement is in effect and shall survive any termination of
+        this Agreement. The Reseller shall inform the Appointor in
+        writing immediately if any of the representations and warranties
+        of the Reseller contained herein shall become incomplete,
+        incorrect or inaccurate for any reason whatsoever, and the
+        Reseller shall immediately take efforts to rectify such
+        situation. The Reseller's failure to immediately inform the
+        Appointor of such situation or to correct such situation shall
+        be a material breach of this Agreement.
+
+    3.  The Reseller undertakes to comply with all applicable Laws and
+        regulations in the conduct of its business at all times.
+
+10. Product warranties
+
+    1.  All the Appointor Products are covered by the Appointor's
+        limited warranty statements that are provided with the Products
+        or otherwise made available by the Appointor from time to time.
+
+    2.  The Appointor hereby warrants that when operated according to
+        the documentation and other instructions the Appointor provides
+        from time to time, Products will perform substantially according
+        to the functional specifications listed in such documentation.
+
+    3.  Subject to the limited warranty offered by the Appointor along
+        with the Products as more particularly provided for in Clause
+        10.1 hereinabove, the Appointor's obligation to repair or
+        replace defects shall be at its sole discretion and shall be the
+        Reseller's sole remedy for defects. Notwithstanding the above
+        the Appointor shall not be obligated to repair or replace any
+        defect to the extent that such defect is attributable to any act
+        or omission on the part of the Reseller in the performance of
+        its obligations as set out in this Agreement.
+
+    4.  Unless otherwise listed in this Agreement:
+
+        a.  the Appointor does not make any warranty regarding the
+            Products; and
+
+        b.  the Appointor disclaims to the fullest extent permissible by
+            Law any and all other warranties, whether express or
+            implied, including any implied warranties of title,
+            non-infringement, quiet enjoyment, integration,
+            merchantability or fitness for a particular purpose.
+
+    5.  It is expressly agreed by the Parties that the Reseller shall in
+        no way be held responsible or liable for any loss, damage or
+        injury caused to any End User of the Product as a consequence of
+        any negligence or defect in Products and the Appointer herein
+        expressly indemnifies the Reseller against the same.
+
+11. Intellectual Property
+
+    1.  The Reseller hereby acknowledges that:
+
+        a.  the Appointor owns all the Intellectual Property, and that
+            valuable goodwill is attached thereto and any goodwill
+            established thereby shall inure to the exclusive benefit of
+            the Appointor;
+
+        b.  the Appointor's rights in the Intellectual Property includes
+            all configurations of the marks as indicated in all present
+            registrations and applications as well as all configurations
+            of the marks as indicated in future registrations and
+            applications and shall extend to all representations of the
+            said registrations and applications in any language and
+            combination when used in any way as a trade or product
+            identification or indicia of origin or sponsorship;
+
+        c.  the Appointor's rights are not limited to the aforesaid
+            registrations or applications, but are in addition to all
+            other rights afforded to the Appointor by law, custom and
+            practice including common law rights which are vested in the
+            Appointor as a result of its long continuing, widespread and
+            successful use of the Intellectual Property in Singapore and
+            elsewhere;
+
+        d.  the Appointor has by this Agreement licensed to the Reseller
+            the use of the Intellectual Property within the Territory
+            only in accordance with the terms and conditions of this
+            Agreement and in particular in accordance with Clause 13
+            below;
+
+        e.  no title to the Intellectual Property will pass hereunder to
+            or through the Reseller, and only the rights expressly
+            granted in or pursuant to this Agreement are provided to the
+            Reseller;
+
+        f.  the Reseller does not have the right to use and will not use
+            the Intellectual Property as indicated in the present
+            registrations and applications or as indicated in any
+            modified representation thereof or as may be indicated in
+            future registrations and applications either individually or
+            any combination
+
+  (i) as part of the Reseller's corporate name or in any other way,
+  except as specifically licensed hereunder, or (ii) as part of the name
+  of any company or as part of any trade name or with any suffix/prefix
+  or other modifying trademarks, logos, words, terms, designs or
+  symbols;
+
+g.  any usage of the Intellectual Property by the Reseller will inure to
+    the benefit of the Appointor and shall be deemed to be usage by the
+    Appointor; and
+
+2.  The Reseller undertakes that it will not use and will not permit or
+    cause the use of, the Intellectual Property, except in the manner
+    and to the extent specifically licensed to the Reseller by this
+    Agreement. Such use hereunder will accurately portray the
+    Intellectual Property and will not jeopardise or adversely affect
+    the goodwill attached thereto.
+
+3.  The Reseller shall, at the Appointor's expense, do all such acts and
+    things and execute and deliver all such documents, notices and forms
+    as the Appointor deems necessary to protect its ownership of the
+    Intellectual Property, including if applicable, registering itself
+    as a licensed user of the same in the Territory and producing proof
+    of such registration to the Appointor within such time as the
+    Appointor may specify.
+
+4.  The Reseller agrees that:
+
+    a.  the Reseller or its successors will be provided by the Appointor
+        in confidence with forms and other materials which are
+        restricted information and proprietary property, belonging to
+        and exclusively for the benefit of the Appointor and constitute
+        valuable trade secrets of the Appointor which are fully
+        protected by the Appointor's copyrights; and
+
+    b.  the Reseller will use the Intellectual Property solely in
+        connection with the Business and for the benefit of the Reseller
+        and in accordance with Clause 11.1(d) only and that the Reseller
+        will not permit, directly or indirectly, at any time, any
+        disclosure or delivery of any document or other item concerning
+        any of the Intellectual Property thereof, to any person, except
+        authorized
+
+  employees of the Reseller or as specifically directed by the
+  Appointor; nor will the Reseller copy or imitate or aid anyone else to
+  copy or imitate the same, either for the Reseller's benefit or for the
+  benefit of any other person, firm or corporation, as principal, agent,
+  employee, or in any other capacity.
+
+5.  The Reseller will immediately notify the Appointor of all
+    circumstances coming to the attention of the Reseller which may
+    constitute an infringement of any of the rights in the Intellectual
+    Property and any unregistered Intellectual Property rights and shall
+    take such action in connection therewith as the Appointor may direct
+    at the expense of the Appointor to assist the Appointor in the
+    protection of the Intellectual Property. The Reseller will, no later
+    than 10 days after receiving notice of the same, notify the
+    Appointor in writing of any claim, demand or suit based upon or
+    arising from the use of, or of any attempt by any other person, firm
+    or corporation to use, any of the Intellectual Property. The
+    Reseller will also promptly notify the Appointor in writing of any
+    litigation relating to this Agreement or the Reseller's operations
+    hereunder instituted by the Reseller or by any person, firm,
+    corporation or governmental agency against the Reseller.
+
+6.  The Appointor, at its own expense, shall have the right in its sole
+    discretion to undertake the defence or prosecution, as the case may
+    be, of any and all claims or causes of action arising from the
+    Reseller's use, under and pursuant to this Agreement, of the
+    Intellectual Property. The Appointor shall have the option of
+    conducting the defence or prosecution (as the case may be) in the
+    Territory or elsewhere in the name of the Reseller at the cost of
+    the Appointor.
+
+7.  The Appointor, at its option, shall also have the right in its sole
+    discretion to advise, assist or undertake the defence or
+    prosecution, as the case may be, of any hearings or conferences
+    before any governmental agencies or litigation directly or
+    indirectly concerning the Intellectual Property, and the Reseller
+    shall promptly notify the Appointor of any such matters in writing.
+
+8.  In the event the Appointor, pursuant to the terms of this Clause 11
+    (Intellectual Property), undertakes the defence or prosecution of
+    any litigation, the Reseller shall execute any and all documents and
+    do such lawful acts and things as may, in the opinion of the
+    Appointor or the legal counsel for the Appointor, be necessary to
+    carry out such defence or prosecution, either in the name of the
+    Appointor or in the name of the Reseller, as the Appointor shall
+    elect.
+
+9.  In addition, the Reseller undertakes to give its fullest
+    co-operation and render all necessary assistance in protecting the
+    Appointor’s ownership of the Intellectual Property and goodwill, and
+    the intellectual property rights in and attaching thereto.
+
+12. Reseller’s responsibilities
+
+    1.  The Reseller shall use reasonable efforts to market, advertise,
+        and otherwise promote and sell the Products in the Territory.
+
+    2.  The Reseller shall ensure that any of its employees who are
+        responsible for the marketing, sales, and technical support
+        services for the Products have proper skill, training, and
+        background to enable them to provide these services in a
+        competent and professional manner, including ensuring relevant
+        employees complete any training programs the Appointor requires.
+
+    3.  The Reseller shall work closely with the Appointor and use
+        reasonable efforts to meet the mutually agreed-upon sales goals.
+
+    4.  The Reseller will not remove or alter any trademarks, Product
+        identification, notices of any proprietary or copyright
+        restrictions, or other markings or notices that appear on the
+        Products or their packaging.
+
+    5.  The Reseller will not:
+
+        a.  create or attempt to, or aid or permits others to, create by
+            reverse engineering, disassembly, decompilation, reverse
+            engineering or otherwise, the internal structure, the source
+            code, hardware design, or organization of any Product;
+
+        b.  copy, modify, translate, or create derivative works of
+            software included in any Product, unless the Appointor
+            consents in writing; or
+
+        c.  separate the Product into component parts for distribution
+            or transfer to a third party.
+
+    6.  The Reseller may use Products for its internal use, unless the
+        Appointor notifies otherwise in writing.
+
+    7.  The Reseller shall apply for the requisite
+        licences/authorisations necessary for the provision of the
+        Products in the Territory at its own cost, and comply with
+        applicable Law in the Territory
+
+13. License grants
+
+    1.  The Appointor hereby grants the Reseller a non-transferable,
+        non-exclusive, non- sublicensable, and royalty-free license, for
+        the duration of the Term, to use and distribute any software
+        incorporated in Products solely for use by End Users within the
+        Territory and in connection with their use of Products.
+
+    2.  The Appointor hereby grants to the Reseller a non-transferable,
+        non-exclusive, non- sublicensable, and royalty-free license,
+        within the Territory and for the duration of the Term, to:
+
+        a.  reproduce or transmit documentation the Appointor provides
+            the Reseller for marketing, selling, and distributing the
+            Products (provided such documentation is not modified and
+            proprietary notices are not removed);
+
+        b.  reproduce and transmit any user manuals and other
+            documentation the Appointor creates for customers in
+            connection with the Products.
+
+    3.  The Appointor hereby grants to the Reseller a non-transferable,
+        non-exclusive, non- sublicensable, and royalty-free license,
+        within the Territory and for the duration of the Term, to use
+        the Appointor's name, trademarks, logos, and other identifying
+        information on marketing literature, advertising, promotions,
+        customer information,
+
+and programs the Reseller creates in connection with the Products,
+subject to the Appointor's written approval in each instance.
+
+4.  The Reseller shall comply with all of the Appointor's policies
+    regarding the use and display of the Appointor's name, trademarks,
+    logos, and other identifying information that the Appointor provides
+    to the Reseller in writing.
+
+14. Confidentiality
+
+    1.  Each Party shall (and shall procure that each of its Connected
+        Persons shall):
+
+        a.  hold Confidential Information in confidence;
+
+        b.  not copy or reproduce it;
+
+        c.  not disclose it to any person other than a Connected Person;
+            and
+
+        d.  use the Confidential Information only for the purpose of
+            exercising or
+
+  performing that Party’s rights and obligations under this Agreement.
+
+2.  Clause 14.1 shall not apply to Confidential Information to the
+    extent that:
+
+    a.  the Confidential Information is required to be disclosed by law
+        or by any stock exchange or Governmental Authority. If the
+        receiving party believes that this Clause (a) applies, it shall,
+        as far as it is practicable and lawful to do so (and except in
+        connection with disclosure to a Tax Authority):
+
+        i.  first consult the disclosing party to give the disclosing
+            party an opportunity to contest the disclosure; and
+
+        ii. take into account the disclosing party’s reasonable
+              requirements about
+
+  the proposed form, timing, nature and extent of the disclosure;
+
+b.  the Confidential Information is required to be disclosed so that the
+    receiving party can fulfil its obligations under this Agreement;
+
+c.  the Confidential Information was already in the public domain when
+    it was first made available to/received by the receiving party;
+
+d.  the Confidential Information subsequently enters the public domain,
+    other than through breach of Clause 14.1;
+
+e.  written records show that, when the Confidential Information was
+    first made available to the receiving party, it was already in the
+    lawful possession of the receiving party or any of its Connected
+    Persons;
+
+f.  the Confidential Information is developed by or for the receiving
+    party at any time independently of the information disclosed to it
+    by the disclosing party by persons who have had no access to or
+    knowledge of the said information;
+
+g.  after it is first made available to either of them, the receiving
+    party or a Connected Person lawfully receives the Confidential
+    Information from a third party who does not owe the disclosing
+    party, or any of its Connected Persons, an obligation of confidence
+    in relation to it;
+
+h.  the Confidential Information is required to be disclosed for the
+    purpose of any arbitral or judicial proceedings arising out of this
+    Agreement;
+
+i.  provided that prior written consent of the Appointor is obtained,
+    the Confidential Information is required to be disclosed to lending
+    banks, financial institutions or any other funding or prospective
+    funding (whether debt or equity) parties of the receiving party or
+    any of its Affiliates or arrangers of that funding or rating
+    agencies engaged by or on behalf of the receiving party for the
+    purpose of getting funding;
+
+j.  provided that prior written consent of the Appointor is obtained,
+    the Confidential Information is required to be disclosed to a bona
+    fide third-party purchaser or prospective purchaser of any shares in
+    or assets of the receiving party; or
+
+k.  provided that prior written consent of the Appointor is obtained,
+    the Confidential Information is required to be disclosed by the
+    receiving party to:
+
+    i.  its direct or indirect investors, including any person who the
+        receiving party reasonably believes is likely to become a direct
+        or indirect investor;
+
+    ii. persons who the receiving party reasonably believes are likely
+        to become investors in its shares, whether directly or
+        indirectly, through syndication by its investors; or
+
+    iii. directors, officers or advisers of persons falling under (i) or
+           (ii).
+
+3.  Each Party shall disclose Confidential Information as permitted by
+    this Clause 14 only if it is reasonably required and, in the case of
+    disclosures under Clauses 14.2(b), 14.2(i) and 14.2(j), only if the
+    Party to whom the disclosure is made is informed of the confidential
+    nature of the Confidential Information and acknowledges that it is
+    subject to a duty of confidentiality on substantially the same terms
+    as this Clause 14.
+
+4.  Subject to Clause 14.5, if this Agreement terminates, the receiving
+    party shall (and shall procure that its Connected Persons shall),
+    within 20 (twenty) days after receiving a written request by the
+    disclosing party:
+
+    a.  destroy, or return to the disclosing party, all copies of any
+        document that contains any Confidential Information;
+
+    b.  take reasonable steps to erase the Confidential Information from
+        any computer or other digital device on which it is held; and
+
+    c.  appoint one of its authorised officers to supervise the steps
+        contemplated in Clauses 14.4(a) and 14.4(b), and to certify in
+        writing to the disclosing party that they have been carried out.
+
+For the purposes of Clause 14.4, document includes any material prepared
+by or on behalf of either Party or its Connected Persons.
+
+5.  Each Party and its Connected Persons may retain any Confidential
+    Information to the extent required, and for the time period
+    specified, by any applicable law, including the rules of a
+    professional body [or under the terms of any of its insurance
+    policies].
+
+6.  Subject to Clause 14.7, neither Party shall make, or permit any
+    person to make, any public announcement, communication or circular
+    (an announcement) concerning this Agreement without the prior
+    written consent of the other Party (such consent not to be
+    unreasonably withheld or delayed).
+
+7.  Nothing in Clause 14.6 shall prevent either Party from making an
+    announcement required to by Law or by any stock exchange or
+    Governmental Authority. Where one Party and/or its advisers is
+    required to make the necessary announcement, such Party if permitted
+    by the applicable laws, rules or regulations undertakes to inform
+    the other Party of such fact in advance.
+
+8.  The provisions of this Clause 14 shall survive termination or expiry
+    of this Agreement.
+
+15. Termination
+
+    1.  Either Party may terminate this Agreement for any reason on ten
+        days’ notice to the
+
+other Party.
+
+2.  Each Party may terminate this Agreement with immediate effect by
+    delivering notice of the termination to the other Party, if:
+
+    a.  the other Party fails to perform, has made or makes any
+        inaccuracy in, or otherwise materially breaches, any of its
+        obligations, covenants, or representations; and
+
+    b.  the failure, inaccuracy, or breach continues for a period of 30
+        days after the injured Party delivers notice to the breaching
+        Party reasonably detailing the breach.
+
+16. Effect of termination
+
+    1.  Except as otherwise provided, on termination or expiration of
+        this Agreement, each Party's rights and obligations under this
+        agreement will cease immediately.
+
+    2.  Even after termination or expiration of this Agreement, each
+        Party shall:
+
+        a.  pay any amounts it owes to the other Party, including
+            payment obligations for services already rendered, work
+            already performed, goods already delivered, or expenses
+            already incurred; and
+
+        b.  refund any payments received but not yet earned, including
+            payments for services not rendered, work not performed, or
+            goods not delivered, expenses forwarded.
+
+17. Assignment
+
+Except with the prior written consent of the other Party, neither Party
+may:
+
+(a) assign, transfer, charge or otherwise deal with any of its rights or
+    obligations under this Agreement nor grant, declare, create or
+    dispose of any right or interest in it; or
+
+(b) sub-contract the performance of any of its obligations under this
+    Agreement.
+
+    1.  General conditions
+
+        1.  This Agreement will be binding upon and inure to the benefit
+            of the Parties and their respective legal representatives,
+            successors and permitted assigns.
+
+        2.  The Reseller agrees that the Appointor shall be entitled to
+            require specific performance from the Reseller.
+
+        3.  The failure of either Party to enforce at any time or for
+            any period of time any provision of this Agreement will not
+            be construed to be a waiver of such provision or of the
+            right of such Party thereafter to enforce each such
+            provision and shall not be construed to
+
+be a waiver of any subsequent breaches by the other Party to comply with
+any provision of this Agreement.
+
+4.  No remedy conferred by any of the provisions of this Agreement is
+    intended to be exclusive of any other remedy which is otherwise
+    available at law, in equity, by statute or otherwise, and each and
+    every other remedy shall be cumulative and shall be in addition to
+    every other remedy given hereunder or now or hereafter existing at
+    law, in equity, by statute or otherwise. The election or any one or
+    more of such remedies by any of the Parties shall not constitute a
+    waiver by such Party of the right to pursue any other available
+    remedies.
+
+5.  The Reseller acknowledges as follows:
+
+    a.  that it has been advised to seek other appropriate independent
+        advice and that the decision to enter into this Agreement has
+        been taken solely on the basis of personal judgment and
+        experience of the Reseller having taken such independent advice.
+        Accordingly, the Reseller acknowledges that no representation
+        warranty inducement or promise express or implied had been made
+        by the Appointor or relied upon by the Reseller in entering into
+        this Agreement.
+
+6.  It is hereby expressly agreed between the Parties that each of the
+    restrictions contained in this Agreement is reasonably necessary for
+    the protection of the Appointor and the Intellectual Property and
+    does not unreasonably interfere with the freedom of action of the
+    Reseller who enters into this Agreement with the benefit of legal
+    advice in full knowledge of all the provisions hereof and the
+    Reseller acknowledges that all such provisions are fair and
+    reasonable. Neither the Reseller nor its employees shall be
+    construed to be either legal or implied partners, agents, servants
+    or employees of the Appointor and have no authority whatsoever to
+    act for or on behalf of the Appointor. No acts or assistance given
+    by the Appointor pursuant to this Agreement will be construed to
+    alter this relationship. It is the intention of the Parties that the
+    Reseller will exercise control over the manner and means of the
+
+operation of its business pursuant to this Agreement. The Reseller will
+have no right or authority and will not attempt to negotiate, enter
+into, permit or cause its employees to negotiate or attempt to or enter
+into contracts or commitments of any nature in name of or on behalf of
+the Appointor that provide for successor liability or that purport to
+bind the Appointor in any respect whatsoever.
+
+7.  All rights and licences not specifically and expressly granted to
+    and conferred upon the Reseller by this Agreement are for all
+    purposes reserved by the Appointor.
+
+2.  Force majeure
+
+    1.  Neither Party shall be liable for any failure to perform, or
+        delay in performing, any obligation under this Agreement if the
+        failure or delay results from any circumstance beyond its
+        reasonable control. The affected party shall be entitled to a
+        reasonable extension of the time for performing the obligation.
+
+3.  Legal relationship
+
+Nothing in this Agreement shall constitute a partnership between the
+Parties nor make either Party the agent of the other Party for any
+purpose.
+
+Costs
+
+  Each Party to pay own costs
+
+1.  Except as otherwise provided in this Agreement, each Party shall pay
+    its own costs incurred in connection with negotiating, preparing and
+    completing this Agreement.
+
+5.  Set-off Permitting Set-off
+
+Whenever under this Agreement any sum of money shall be recoverable from
+or payable by each Party, the same may be deducted from any sum then due
+or which at any time thereafter may become due to the Party under this
+or any other contract
+
+with the other Party. Exercise by each Party of its rights under this
+Clause 22 shall be without prejudice to any other rights or remedies
+available to that Party under this Agreement, or otherwise howsoever, at
+law or in equity.
+
+6.  Further assurances
+
+    1.  At its own cost, each Party and its affiliates shall do anything
+        that is required by law or may be reasonably necessary or
+        desirable to implement and give effect to this Agreement.
+
+    2.  Each Party shall procure so far as it is lawful and practicable
+        to do so that each of its affiliates complies with all
+        obligations under this Agreement that are expressed to apply to
+        any of its affiliates.
+
+7.  Notices
+
+    1.  Any notice to be given by one Party to the other Party in
+        connection with this Agreement shall be in writing in English
+        and signed by or on behalf of the Party giving it. It shall be
+        delivered by hand, email, registered post or courier using a
+        nationally recognised courier company.
+
+    2.  A notice shall be effective upon receipt and shall be deemed to
+        have been received
+
+(i) at the time of delivery, if delivered by hand, registered post or
+courier or (ii) at the time of transmission if delivered by email. Where
+delivery occurs outside Working Hours, notice shall be deemed to have
+been received at the start of Working Hours on the next following
+Business Day.
+
+3.  The addresses and email addresses of the Parties for the purpose of
+    Clause 24.1 are: In the case of a notice to Reseller:
+
+  To: GoGlobal Information Security Private Limited
+
+In the case of Appointer:
+
+  To: GoGlobal Research Pte. Ltd.
+
+4.  Each Party shall notify the other Party in writing of a change to
+    its details in Clause
+
+24.3 from time to time.
+
+8.  Whole agreement
+
+    1.  This Agreement sets out the whole agreement between the Parties
+        in respect of the subject matter of this Agreement and
+        supersedes any previous draft, agreement, arrangement or
+        understanding, whether in writing or not, relating to its
+        subject matter. It is agreed that:
+
+        a.  no Party has relied on or shall have any claim or remedy
+            arising under or in connection with any statement,
+            representation, warranty or undertaking made by or on behalf
+            of the other Party (or any of its Connected Persons) in
+            relation to the subject matter of this Agreement that is not
+            expressly set out in this Agreement;
+
+        b.  any terms or conditions implied by law in any jurisdiction
+            in relation to the subject matter of this Agreement are
+            excluded to the fullest extent permitted by Law or, if
+            incapable of exclusion, any rights or remedies in relation
+            to them are irrevocably waived;
+
+        c.  the only right or remedy of a Party in relation to any
+            provision of this Agreement shall be for breach of this
+            Agreement ; and
+
+        d.  except for any liability in respect of a breach of this
+            Agreement, neither Party (nor any of its Connected Persons)
+            shall owe any duty of care or have any
+
+  liability in tort or otherwise to the other Party (or its respective
+  Connected Persons) in relation to the subject matter of this
+  Agreement.
+
+2.  Nothing in this Clause 25 shall limit any liability for (or remedy
+    in respect of) fraud or fraudulent misrepresentation.
+
+3.  Each Party agrees to the terms of this Clause 25 on its own behalf
+    and as agent for each of its Connected Persons.
+
+9.  Waivers
+
+    1.  No failure to exercise, or delay in exercising, any right under
+        this Agreement or provided by law shall affect that right or
+        operate as a waiver of the right. The single or partial exercise
+        of any right under this Agreement or provided by law shall not
+        preclude any further exercise of it.
+
+    2.  The rights and remedies of the Appointer under this Agreement
+        shall not be affected, and the Reseller’s liability under this
+        Agreement shall not, subject to compliance with the notice
+        requirements in Clause 24 of this Agreement, be released,
+        discharged or impaired by the expiry of any limitation period
+        prescribed by law.
+
+10. Counterparts
+
+This Agreement may be executed in any number of counterparts, and by
+each Party on separate counterparts. Each counterpart is an original,
+but all counterparts shall together constitute one and the same
+instrument. Delivery of a counterpart of this Agreement by e-mail
+attachment shall be an effective mode of delivery. If such method is
+adopted, without prejudice to the validity of this Agreement, each Party
+shall provide the others with the original counterpart of this Agreement
+as soon as is reasonably practicable following the date of this
+Agreement.
+
+11. Variations
+
+    1.  No variation of this Agreement shall be valid unless it is in
+        writing and signed by or on behalf of all of the Parties to it.
+
+    2.  If this Agreement is varied:
+
+        a.  the variation shall not constitute a general waiver of any
+            provisions of this Agreement;
+
+        b.  the variation shall not affect any rights, obligations or
+            liabilities under this Agreement that have already accrued
+            up to the date of variation; and
+
+        c.  the rights and obligations of the Parties under this
+            Agreement shall remain in force, except as, and only to the
+            extent that, they are varied.
+
+12. Invalid terms
+
+    1.  Each of the provisions of this Agreement is severable.
+
+    2.  If and to the extent that any provision of this Agreement:
+
+        a.  is held to be, or becomes, invalid or unenforceable under
+            the law of any jurisdiction; but
+
+        b.  would be valid, binding and enforceable if some part of the
+            provision were deleted or amended,
+
+then the provision shall apply with the minimum modifications necessary
+to make it valid, binding and enforceable and neither the validity or
+enforceability of the remaining provisions of this Agreement, nor the
+validity or enforceability of that provision under the law of any other
+jurisdiction, shall in any way be affected or impaired as a result of
+this Clause 29.1.
+
+3.  The Parties shall negotiate in good faith to amend or replace any
+    invalid, void or unenforceable provision with a valid, binding and
+    enforceable substitute provision or provisions, so that, after the
+    amendment or replacement, the commercial effect of the Agreement is
+    as close as possible to the effect it would have had if the relevant
+    provision had not been invalid, void or unenforceable.
+
+No third-party enforcement
+
+A person who is not a Party to this Agreement shall have no right under
+the Contracts (Rights of Third Parties) Act (Cap 53B) of Singapore to
+enforce any of its terms.
+
+Cumulative remedies
+
+The provisions of this Agreement, and the rights and remedies of the
+Parties under this Agreement are cumulative and are without prejudice
+and in addition to any rights or remedies a Party may have at law or in
+equity; no exercise by a Party of any one right or remedy under this
+Agreement, or at law or in equity, shall operate so as to hinder or
+prevent the exercise by it of any other such right or remedy.
+
+15. Violation of terms
+
+The Parties agree that each Party shall be entitled to an injunction,
+restraining order, right for recovery, suit for specific performance or
+such other equitable relief as a court of competent jurisdiction may
+deem necessary or appropriate to restrain the other Party from
+committing any violation or enforce the performance of the covenants,
+obligations and representations contained in this Agreement. These
+injunctive remedies are cumulative and are in addition to any other
+rights and remedies the Parties may have at law or in equity, including
+without limitation a right for recovery of the amounts due under this
+Agreement and related costs and a right for damages.
+
+16. Governing law and dispute resolution
+
+    1.  This Agreement and any non-contractual obligations arising out
+        of, or in connection with it, shall be governed by, and
+        interpreted in accordance with, Singapore law.
+
+    2.  Any dispute arising out of or in connection with this Agreement
+        and any other documents relating to this Agreement, including
+        any question regarding its existence, validity or termination,
+        shall be referred to and finally and conclusively resolved by
+        arbitration in Singapore at the Singapore International
+        Arbitration Centre (the SIAC)
+
+and in accordance with the arbitration rules of the SIAC for the time
+being in force which rules are deemed to be incorporated by reference
+into this Clause 33.2 (Governing Law and Arbitration). The arbitration
+tribunal shall consist of one arbitrator to be appointed by the
+President of the Court of Arbitration of the SIAC. In the event that
+recourse to the courts shall be necessary for the purpose of determining
+any question of law required to be determined for arbitration, the
+Parties hereto hereby submit to the non-exclusive jurisdiction of the
+Courts of the Republic of Singapore. The language of the arbitration
+shall be English. The law for the arbitration agreement shall be
+Singapore law.
+
+This Agreement is signed by authorised representatives of the Parties:
+
+  APPOINTOR
+
++-------------------------------------+---------------+---------------+
+|   SIGNED                            |   )           |               |
++=====================================+===============+===============+
+|   for and on behalf of              |   )           |               |
+|                                     |               |               |
+|   GoGlobal Research PTE LTD         |               |               |
++-------------------------------------+---------------+---------------+
+|                                     | Signature:    |               |
++-------------------------------------+---------------+---------------+
+|                                     |               |               |
++-------------------------------------+---------------+---------------+
+|                                     |   Name:       |               |
++-------------------------------------+---------------+---------------+
+| RESELLER                            |               |               |
++-------------------------------------+---------------+---------------+
+|   SIGNED                            |   )           |               |
++-------------------------------------+---------------+---------------+
+|   for and on behalf of              |   )           |               |
+|                                     |               |               |
+|   GoGlobal Information Security     |               |               |
+|   Private Limited                   |               |               |
++-------------------------------------+---------------+---------------+
+|                                     | Signature:    |               |
++-------------------------------------+---------------+---------------+
+|                                     |               |               |
++-------------------------------------+---------------+---------------+
+|                                     |   Name:       |               |
++-------------------------------------+---------------+---------------+
+
+-   Cybersecure Elite
+
+-   Cybersecure Pro
+
+-   Threat detect
+
+ Schedule A
+
+PART A – LIST OF PRODUCTS
+
+-   Bogey research
+
+  PART B – PRICE LIST
+
+  -------------------------------------------------------------------------
+  GoGlobal Pricing - 2021                             
+  ------------------------------- ------------------- ---------------------
+  GoGlobal License                Annual Contract     Effective
+                                  Value - Price/Year  Price/Keywords/Year
+
+  1 - 10                          $ 15,620            $ 1,562
+
+  11 - 20                         $ 28,800            $ 1,440
+
+  21 - 50                         $ 48,650            $ 973
+
+  51 - 100                        $ 56,755            $ 568
+
+  101 - 200                       $ 66,080            $ 330
+
+  201 - 500                       $ 75,200            $ 150
+
+  501 - 1000                      $ 84,325            $ 84
+
+  1001 - 1500                     $ 93,445            $ 62
+
+  1501 - 2000                     $ 1,02,560          $ 51
+
+  2001 - 5000                     $ 1,36,200          $ 27
+  -------------------------------------------------------------------------
+
